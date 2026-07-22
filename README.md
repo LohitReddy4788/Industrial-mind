@@ -18,9 +18,9 @@ python -m spacy download en_core_web_sm
 ```bash
 copy .env.example .env
 ```
-Open `.env` and set your Anthropic API key:
+Open `.env` and set your Groq API key (free at console.groq.com):
 ```
-ANTHROPIC_API_KEY=sk-ant-...
+GROQ_API_KEY=your_groq_api_key_here
 ```
 
 ### 3. Seed demo data
@@ -78,7 +78,7 @@ Set `LLM_BACKEND` in `.env`:
 
 | Backend | Model | Cost |
 |---------|-------|------|
-| `anthropic` | claude-haiku-4-5 | Low (recommended) |
+| `groq` | Llama 3.3 70B | Free (recommended) |
 | `openai` | gpt-4o-mini | Low |
 | `ollama` | llama3 (local) | Free |
 
@@ -112,6 +112,6 @@ Use the questions in `demo_questions.txt` to demo each page.
 ## Requirements
 
 - Python 3.10+
-- Anthropic / OpenAI API key (or Ollama running locally)
+- Groq API key — free at console.groq.com (or OpenAI / Ollama as alternatives)
 - Optional: Neo4j Desktop for persistent graph (falls back to NetworkX in-memory)
 - Optional: Tesseract OCR for scanned PDF support

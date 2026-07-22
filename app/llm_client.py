@@ -1,6 +1,6 @@
 """
 LLM abstraction layer.
-Supports Anthropic Claude, OpenAI, Groq (free), Ollama, and a built-in
+Supports Anthropic, OpenAI, Groq (free), Ollama, and a built-in
 Smart RAG formatter that works with ZERO API keys.
 """
 

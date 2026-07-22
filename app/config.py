@@ -58,7 +58,7 @@ def llm_display_name() -> str:
     b = llm_backend()
     return {
         "groq":      "Groq Llama 3.3 70B",
-        "anthropic": "Claude Haiku",
+        "anthropic": "Anthropic Haiku",
         "openai":    "GPT-4o Mini",
         "ollama":    f"Ollama ({OLLAMA_MODEL})",
         "smart_rag": "Smart RAG (No Key)",
