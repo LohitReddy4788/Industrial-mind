@@ -1,0 +1,86 @@
+STANDARD OPERATING PROCEDURE
+==============================
+SOP Number: SOP-012
+Title: Pressure Vessel Inspection and Entry Procedure
+Revision: 2
+Date: 10-Mar-2023
+Prepared by: Amit Shah (Inspection Engineer)
+Approved by: D. Venkataraman (Head of HSE)
+Applicable Equipment: All pressure vessels — V-201, V-205, V-301, V-302 series
+Regulatory Basis: OISD-118 Section 12, Factory Act Section 31, Factories Act Rules (Gujarat)
+
+1. SCOPE
+This procedure applies to statutory and non-statutory internal and external inspection
+of pressure vessels. Includes procedures for vessel entry (confined space entry).
+
+2. STATUTORY INSPECTION REQUIREMENTS
+Per Factory Act Section 31 and OISD-118 Section 12:
+- External inspection: minimum every 2 years
+- Internal inspection: minimum every 4 years OR as determined by API-510 inspector
+- All inspections must be performed by or under supervision of a competent person
+  (API-510 certified or equivalent)
+- Third-party inspection required for vessels > 15 years old or where defects found
+
+3. PRE-INSPECTION REQUIREMENTS
+
+3.1 Vessel Isolation:
+Step 1: Shutdown and depressure vessel to atmospheric pressure.
+Step 2: Drain all process fluid — verify level gauge reads zero.
+Step 3: Purge vessel with nitrogen (minimum 3 vessel volumes).
+Step 4: Gas test — must achieve: O2 18-21%, LEL <5%, H2S <10 ppm, CO <50 ppm.
+Step 5: Issue Confined Space Entry Permit (CSEP) signed by Area Authority.
+Step 6: Continuous gas monitoring required during entire entry period.
+Step 7: Standby person must be positioned at vessel manway at all times during entry.
+
+3.2 Entry Requirements:
+- Minimum 2 persons: 1 inside, 1 standby outside at all times
+- Emergency rescue equipment at entry point: self-contained breathing apparatus (SCBA), safety rope
+- Communication: voice or radio contact every 10 minutes
+- Maximum continuous stay inside vessel: 30 minutes (then exit for rest)
+- Re-entry only after fresh gas test
+
+4. INSPECTION PROCEDURE
+
+4.1 External Inspection:
+Step 1: Visual examination — surface corrosion, paint condition, insulation damage.
+Step 2: Nozzle inspection — flange condition, valve condition, PSV condition.
+Step 3: Support and saddle inspection — weld condition, corrosion.
+Step 4: Thermographic scan if moisture ingress in insulation suspected.
+Step 5: Record all findings with photographs.
+
+4.2 Internal Inspection:
+Step 1: Enter vessel per Section 3.2.
+Step 2: Visual examination of all internal surfaces — identify areas for UT measurements.
+Step 3: Wall thickness measurement by UT (Olympus 38DL Plus or equivalent):
+   - Minimum 20 measurement points per vessel
+   - Higher density in bottom quadrant and corrosion-prone areas
+   - Record all readings and compare to minimum required thickness
+Step 4: Weld inspection — minimum 10% of all welds by MT or PT
+Step 5: Nozzle weld inspection — all nozzles shall be inspected
+Step 6: Photograph all significant findings
+
+4.3 Overpressure Protection:
+Step 1: Verify PSV set pressure against vessel design pressure.
+Step 2: Confirm PSV test records are current (due every 12 months per OISD-118 Section 12.4).
+Step 3: If PSV overdue — DO NOT RETURN VESSEL TO SERVICE until tested and certified.
+
+5. FITNESS FOR SERVICE ASSESSMENT
+Following inspection:
+- Calculate remaining corrosion allowance = actual thickness - required minimum thickness
+- Calculate remaining life = remaining corrosion allowance / corrosion rate
+- If remaining life < 2 years: escalate to Chief Inspector for fitness for service review
+- Determine next inspection date per API-510 methodology
+
+6. DOCUMENTATION
+- Complete Inspection Report with all readings and findings
+- Issue Inspection Certificate (Form INS-003)
+- Third-party certificate (for statutory inspections)
+- Submit to Plant Safety Officer within 7 days of inspection
+- Update plant inspection database (SAP PM)
+
+7. STATUTORY NOTIFICATION
+For significant findings (wall thinning > 30% corrosion allowance consumed):
+- Notify Chief Inspector within 24 hours
+- For any vessel with imminent risk: shut down immediately, notify Factory Inspector per Factories Act
+
+END OF PROCEDURE

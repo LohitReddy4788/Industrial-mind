@@ -1,0 +1,112 @@
+STANDARD OPERATING PROCEDURE
+SOP Number: SOP-015
+Title: Rotating Equipment — Pre-Startup Checklist and Startup Procedure
+Revision: 3
+Effective Date: 15-January-2024
+Approved By: Head of Mechanical Maintenance, Head of Operations
+
+SCOPE: Centrifugal pumps, compressors, fans, and blowers in all process units.
+
+MANDATORY PRE-STARTUP CHECKLIST (Complete ALL items — no exceptions):
+
+A. MECHANICAL CHECKS:
+☐ A1. Coupling guard fitted and secure — bolts tightened
+☐ A2. Alignment verified (if recently maintained) — log reading
+☐ A3. Shaft rotation free — manually barred over minimum 2 full rotations
+☐ A4. Bearing housing oil level correct (sight glass 50-75% full) OR grease nipple check
+☐ A5. All drain valves closed and plugged
+☐ A6. All vent valves closed (for liquid pumps)
+☐ A7. Mechanical seal: No leakage, seal support system pressurized (Plan 53B: check accumulator pre-charge)
+☐ A8. All instruments connected — pressure gauges, temperature gauges, vibration probes
+☐ A9. Suction strainer: Clean (check differential pressure if gauges fitted)
+
+B. ELECTRICAL CHECKS:
+☐ B1. Motor insulation resistance (if newly installed): >1 MΩ at 500V megger
+☐ B2. Motor terminal box: Closed and sealed, cable entry sealed
+☐ B3. Earth connection: Secure (shake test)
+☐ B4. Local isolator: Ready/Auto position (confirm with electrical team)
+☐ B5. MCC (Motor Control Centre): Circuit breaker in service, fuses in place
+
+C. PROCESS/OPERATIONS CHECKS:
+☐ C1. Suction block valve: OPEN
+☐ C2. Discharge block valve: CLOSED (for pumps — open after startup) or CRACKED OPEN
+☐ C3. Minimum flow bypass (if applicable): OPEN
+☐ C4. Pressure gauges: Reading suction pressure (confirms suction valve open and line pressurized)
+☐ C5. Confirm process system ready to receive flow (downstream equipment ready)
+☐ C6. LOTO removed: Verify no locks or tags remaining on equipment
+☐ C7. Work permit: CLOSED (confirm with permit issuer)
+☐ C8. No personnel working on or near equipment
+
+D. SAFETY CHECKS:
+☐ D1. Equipment area: Clear of all tools, scaffolding, temporary equipment
+☐ D2. Fire detection system: Active (check with safety room)
+☐ D3. Gas detectors in equipment area: Showing 0% LEL
+☐ D4. Eye wash station: Accessible and in working condition
+☐ D5. Emergency stop (E-STOP): Test function (bump test) before startup
+
+STARTUP PROCEDURE — CENTRIFUGAL PUMP:
+
+Step 1: Prime the pump
+- For liquid service: Open vent valve on casing. Fill pump with process fluid until liquid exits vent.
+- Close vent valve. Confirm no air pockets (re-vent if discharge pressure low after start).
+- For hot service (>150°C): Allow 30-minute warm-up with casing drain cracked open to prevent thermal shock.
+
+Step 2: Check seal flush
+- Verify seal flush flow (Plan 11/13): Flow indicator showing flow.
+- For Plan 53B: Verify accumulator pre-charge 2-3 bar above max seal chamber pressure.
+- No leaks from seal area before starting.
+
+Step 3: Start motor
+- From DCS or local panel as per operating instruction.
+- Observe starting current (should return to normal within 5-8 seconds).
+- If motor fails to start or current does not drop: Stop immediately, investigate before retry.
+
+Step 4: Immediate post-start checks (within 2 minutes of start):
+- Motor current: Check against nameplate FLA (should be 90-110% of expected running current)
+- Discharge pressure: Rising as expected
+- Bearing temperatures: Both DE and NDE — should stabilize within 20-30 minutes
+- Vibration: Listen for abnormal noise; check vibration monitor reading
+- Seal: No leakage
+- Suction pressure: Stable (not falling — would indicate cavitation/low level)
+
+Step 5: Open discharge valve gradually
+- Open discharge block valve slowly over 1-2 minutes
+- Watch for cavitation (unusual noise, vibration spike, suction pressure drop)
+- Bring flow to required rate per operating target
+
+Step 6: Stabilization monitoring (first 30 minutes):
+- Record readings every 5 minutes: Suction P, Discharge P, Flow, Motor current, Bearing temp
+- Any reading outside limits: Stop pump, investigate
+
+ABNORMAL STARTUP CONDITIONS — ACTION:
+
+High Vibration (>7.1 mm/s) immediately after start:
+→ Stop pump. Check coupling alignment. Check for cavitation. Check for rubbing (barring difficulty).
+
+Motor does not start / trips on overcurrent:
+→ Check voltage at terminals (should be 415V ±6%). Check for mechanical binding (bar over). Check starter.
+
+No/Low flow after start:
+→ Check suction valve open. Check for vapor lock (re-prime). Check rotation direction (reversed phase).
+
+Seal leaking on startup:
+→ Stop pump if leak exceeds drip rate. DO NOT run with significant seal leakage. Call maintenance.
+
+High bearing temperature (>85°C within first hour):
+→ Stop pump. Check oil level. Check oil quality (contamination). Check alignment.
+
+STARTUP AFTER MAINTENANCE:
+Additional checks required:
+- Alignment certificate reviewed (if shaft/coupling work done)
+- Torque check on all bolted joints (record in work completion report)
+- Mechanical seal installation certificate reviewed
+- Test run on water/low-hazard fluid before process startup (if feasible)
+- Gradual load increase — minimum 30-minute light-load run before full process load
+
+DOCUMENTATION:
+- Complete all checklist items with initials
+- Record pre-startup readings in Equipment Log Book
+- Startup time and person to be recorded in DCS historian
+- Any deviations from normal: Record in shift log and inform supervisor
+
+Reference SOPs: SOP-004 (LOTO), SOP-001 (PTW), SOP-007 (Pump Maintenance)

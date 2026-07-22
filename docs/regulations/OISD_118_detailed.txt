@@ -1,0 +1,126 @@
+OISD STANDARD 118 — LAYOUT FOR OIL AND GAS INSTALLATIONS
+(Oil Industry Safety Directorate — Ministry of Petroleum and Natural Gas, India)
+Summary of Key Requirements for Plant Safety and Layout
+
+SECTION 1 — GENERAL REQUIREMENTS
+
+1.1 Applicability:
+All new onshore petroleum/gas processing plants, refineries, petrochemical plants, and LPG bottling plants under OISD jurisdiction. Also serves as guideline for plant modification and expansion.
+
+1.2 Hazard Classification — Petroleum Products (as per Petroleum Act 1934):
+Class A: Flash point below 23°C (e.g., Naphtha, Petrol, LPG, Hydrogen)
+Class B: Flash point 23°C to 65°C (e.g., Kerosene, Diesel, Jet Fuel ATF)
+Class C: Flash point above 65°C (e.g., Furnace Oil, Bitumen)
+
+SECTION 2 — MINIMUM SEPARATION DISTANCES (Key Requirements)
+
+2.1 Between Process Units:
+- Minimum distance between adjacent process units: 30 meters
+- For units handling Class A products: 45 meters minimum
+- Distance from process unit to property boundary: 60 meters minimum
+- Distance from process unit to public road: 45 meters
+
+2.2 Fired Heaters / Furnaces:
+- Fired heater to pump/compressor handling flammable fluid: MINIMUM 30 meters
+- Fired heater to Class A storage tank: 45 meters
+- Fired heater to battery limit of plot: 30 meters
+CRITICAL: Any hydrocarbon leak within 30m of fired heater is a MAJOR FIRE RISK
+
+2.3 Rotating Equipment (Pumps, Compressors):
+- Pump house to process column/vessel: Minimum 15 meters
+- Compressor house to fired equipment: Minimum 30 meters
+- Compressor house to administration building: 60 meters
+
+SECTION 3 — FIRE PROTECTION REQUIREMENTS
+
+3.1 Fire Water System:
+- Fire water ring main pressure: Minimum 7 kg/cm² (at hydraulically most remote point)
+- Fire water flow rate: Calculated per OISD-116 fire scenario, minimum 2000 LPM available at any one point
+- Fire hydrant spacing: Maximum 30 meters apart in process areas
+- Fire hydrant spacing: Maximum 45 meters apart in storage areas
+- Fire pump capacity: 100% duty + 100% standby (auto-start on pressure drop to 6.5 kg/cm²)
+- Jockey pump: Maintain system pressure 7.5 kg/cm²
+
+3.2 Fixed Fire Protection Systems Required:
+For Class A/B Hydrocarbon Pumps in enclosed pump houses:
+- Automatic sprinkler OR deluge system mandatory
+- Gas detection system (LEL detectors): 2-out-of-3 logic for deluge activation
+- Foam pouring system for pump sumps (if hydrocarbon collection likely)
+
+For LPG / High-Pressure Gas Compressor houses:
+- Automatic gas detection + deluge water curtain mandatory
+- Water spray for vessel/piping cooling at 10.2 L/min/m² surface area
+
+3.3 Fire Extinguisher Requirements:
+Process areas: DCP 9 kg type at maximum 15-meter travel distance
+Electrical panels/control rooms: CO2 type (NOT DCP)
+Pump houses: Foam trolley (50L) + DCP extinguishers minimum
+
+SECTION 4 — ELECTRICAL AREA CLASSIFICATION
+
+4.1 Zone Classification for Hazardous Areas (as per IS 5572/IEC 60079):
+Zone 0: Explosive atmosphere present continuously or for long periods
+- Inside open-top tanks, inside process vessels (when open)
+Zone 1: Explosive atmosphere likely to occur in normal operation
+- Pump seal area within 3-meter radius
+- Compressor area within 3-meter radius
+- Open drain sumps within 1.5-meter radius
+- Vent/relief valve outlets within 3-meter radius (horizontal) × 1-meter (vertical)
+Zone 2: Explosive atmosphere not likely but may occur in abnormal conditions
+- Beyond Zone 1 boundary up to 8 meters from release point
+- Enclosed pump rooms (general area)
+- Cable trenches in process areas
+
+4.2 Equipment Selection for Hazardous Areas:
+Zone 0: Intrinsically Safe (Ex ia) equipment ONLY
+Zone 1: Flame-proof (Ex d), Increased Safety (Ex e), or Intrinsically Safe (Ex ia/ib)
+Zone 2: Any of Zone 1 types OR Non-sparking (Ex n)
+
+CRITICAL: Using non-rated electrical equipment in hazardous zone = violation of Factories Act Section 36 and OISD-113
+
+SECTION 5 — VIBRATION LIMITS FOR ROTATING EQUIPMENT
+
+Per OISD-118 and ISO 10816-3:
+Pumps and Compressors:
+Zone A (New equipment acceptable): <2.3 mm/s RMS
+Zone B (Continue operation acceptable): 2.3 to 4.5 mm/s RMS
+Zone C (Alarm — investigate): 4.5 to 7.1 mm/s RMS
+Zone D (DANGER — shutdown): >7.1 mm/s RMS
+
+Vibration monitoring requirements:
+- All pumps >75 kW: Online vibration monitoring required (OISD-118 Para 6.2.4)
+- Compressors: Continuous online monitoring mandatory regardless of size
+- Manual monitoring interval (where online not available): Maximum 30-day intervals for critical equipment
+
+SECTION 6 — PRESSURE RELIEF DEVICE REQUIREMENTS
+
+6.1 Every pressure vessel, heat exchanger, and process column MUST have:
+- PSV (Pressure Safety Valve) sized for maximum credible overpressure scenario
+- PSV set pressure ≤ design pressure of vessel
+- PSV discharge: To closed flare header (NOT to atmosphere for toxic/flammable service)
+
+6.2 PSV Testing Intervals:
+- Normal service: Every 3 years (maximum)
+- Severe/corrosive service: Every 1-2 years
+- PSV testing authority: Third-party Inspection Body (TPI) approved by CCOE/PESO
+
+6.3 Pressure Vessel Inspection (as per Factories Act Rule 61):
+- First inspection: Before commissioning
+- Routine inspection: Every 3 years (external), 6 years (internal)
+- Thickness measurement: Every inspection by ultrasonic testing (UT)
+- Inspection report: Maintained and produced on demand to Factory Inspector
+
+SECTION 7 — EMERGENCY SYSTEMS
+
+7.1 Emergency Shutdown System (ESD):
+- Plants with flammable/toxic inventory >10 tonnes: Automated ESD mandatory
+- ESD must be independent of DCS (separate system)
+- ESD testing: Full test every 2 years; partial stroke test every 6 months
+- ESD response time: Actuate within 5 seconds of signal
+
+7.2 Emergency Communication:
+- Public Address (PA) system: Audible throughout plant at 85 dB minimum above background noise
+- Emergency siren: Distinct from other alarms; audible 1 km radius
+- Emergency contact numbers posted at all entry points and control room
+
+References: Petroleum Act 1934, Petroleum Rules 2002, Factories Act 1948, PESO regulations, IS 5572, IS 15001

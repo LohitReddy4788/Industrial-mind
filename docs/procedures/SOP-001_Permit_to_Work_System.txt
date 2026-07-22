@@ -1,0 +1,117 @@
+STANDARD OPERATING PROCEDURE
+SOP Number: SOP-001
+Title: Permit to Work (PTW) System
+Revision: 5
+Effective Date: 01-April-2023
+Approved By: Head of Operations, Head of Safety
+Applicable To: All maintenance, inspection, and modification work in plant
+
+SCOPE:
+This SOP covers the Permit to Work system for all non-routine work including maintenance, inspection, testing, construction, and modification activities at all plant areas classified as hazardous (Zone 0, Zone 1, Zone 2 as per IS 5572) and non-hazardous.
+
+TYPES OF PERMITS:
+
+1. COLD WORK PERMIT (CWP)
+For non-sparking, non-ignition-risk work in non-hazardous areas or after full isolation.
+Examples: Instrument calibration in control room, civil work away from process areas, painting
+Validity: 8 hours (one shift)
+Issuing Authority: Shift Incharge
+Approving Authority: Area Supervisor
+
+2. HOT WORK PERMIT (HWP)
+MANDATORY for any work involving open flame, spark, or heat generation in or near hazardous areas.
+Examples: Welding, grinding, gas cutting, soldering, use of non-intrinsically safe equipment
+Validity: Maximum 4 hours (renewable with re-inspection)
+Issuing Authority: Safety Officer
+Approving Authority: Head of Operations + Safety Manager (dual signature)
+
+Pre-conditions for Hot Work Permit:
+a) Area gas testing: LEL <10% in work area AND within 15-meter radius
+b) Gas testing equipment: Calibrated multi-gas detector (LEL, H2S, O2)
+c) Gas test validity: Maximum 30 minutes before work start; re-test every 2 hours during work
+d) Fire watcher: Dedicated fire watcher mandatory throughout hot work duration
+e) Fire extinguisher: Minimum 2x DCP 9kg extinguishers at work site
+f) Fire water: Ensure fire water line pressurized and hose connected
+g) Combustibles: All combustible materials removed/protected within 10-meter radius
+h) Drainage: All drains covered with non-combustible material within 10-meter radius
+i) Ventilation: Forced ventilation mandatory in confined/semi-confined spaces
+
+3. CONFINED SPACE ENTRY PERMIT (CSEP)
+MANDATORY for entry into any confined space (tanks, vessels, columns, pits, sewers, exchanger shells)
+Validity: 8 hours
+Issuing Authority: Safety Officer
+Approving Authority: Safety Manager + Medical Officer sign-off
+
+Confined Space Entry Requirements:
+a) Atmosphere testing: O2: 19.5-23.5%, LEL: <10%, H2S: <5 ppm, CO: <25 ppm
+b) Continuous monitoring: Multi-gas detector inside space throughout entry
+c) Entry standby: Minimum 1 trained standby person at entry point — NEVER LEAVE
+d) Rescue equipment: Full body harness, lifeline, SCBA set at entry
+e) Communication: Radio communication maintained between entrant and standby
+f) Isolation: All process connections blanked/blinded (NOT valve isolation alone)
+g) Lockout/Tagout: All energy sources locked out per SOP-004
+
+4. ELECTRICAL WORK PERMIT (EWP)
+For work on electrical equipment, panels, and instrumentation.
+Requires: LOTO procedure completed, area classification confirmed, insulation resistance check
+
+PTW PROCEDURE — STEP BY STEP:
+
+STEP 1: WORK REQUEST
+- Originator (maintenance supervisor) raises Work Request in SAP PM
+- Describes work scope, equipment, hazards, resources required
+
+STEP 2: RISK ASSESSMENT
+- Maintenance supervisor completes Job Safety Analysis (JSA) / Task Risk Assessment (TRA)
+- Identifies: What can go wrong? How severe? How likely? What controls?
+- Sign-off required from all workers performing the job
+
+STEP 3: ISOLATION PLAN
+- Operations team prepares isolation certificate
+- All energy sources identified: Process fluid, electricity, pneumatic, hydraulic
+- Isolation points numbered and recorded on P&ID sketch
+
+STEP 4: PHYSICAL ISOLATION (LOTO)
+- Operations engineer physically isolates equipment
+- Drain, depressurize, and purge/flush as required
+- Apply locks and tags to all isolation points
+- Tag reads: DANGER — DO NOT OPERATE — Work Permit No. [XXX]
+- Lock keys held by: Permit Issuer (1 key) + Each worker (1 key each)
+
+STEP 5: PERMIT ISSUE
+- Permit Issuer and Approving Authority jointly inspect worksite
+- Verify all pre-conditions met
+- Sign and issue permit — one copy at worksite, one copy at control room
+
+STEP 6: WORK EXECUTION
+- Work proceeds only after permit physically in hand at worksite
+- Any change in scope: STOP work, cancel permit, issue new permit
+- Any unsafe condition: Worker authority to STOP work immediately
+
+STEP 7: PERMIT CLOSURE
+- Work completed and area cleaned
+- Equipment reinstated — all temporary modifications removed
+- Permit Issuer inspects before closing
+- Isolation removed only after permit officially closed
+- Test run of equipment if required
+
+STEP 8: SIMULTANEOUS OPERATIONS (SIMOPS)
+When multiple work permits active near same area:
+- SIMOPS matrix prepared — identifies conflicts
+- Additional controls applied (communication, coordination)
+- Safety officer to coordinate
+
+CRITICAL DON'Ts:
+❌ Never start work without permit in hand at worksite
+❌ Never extend permit verbally — must be reissued in writing
+❌ Never bypass LOTO to "save time"
+❌ Never allow gas test to be >30 minutes old for hot work
+❌ Never enter confined space without standby person
+❌ Never perform hot work if LEL reading >10%
+
+PENALTIES FOR VIOLATION:
+- Any violation of PTW system = Immediate suspension pending enquiry
+- Repeat violations = Termination
+- Management equally responsible if they condone violations
+
+References: OISD-105 (Work Permit), IS 15001 (Confined Space), Factory Act 1948 Section 36 (Precautions against explosive atmospheres)

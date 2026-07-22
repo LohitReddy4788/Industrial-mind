@@ -1,0 +1,114 @@
+EQUIPMENT MAINTENANCE HISTORY — PUMP P-101
+Plant: Bharat Petroleum Refinery Unit 3
+Equipment ID: P-101
+Equipment Type: Centrifugal Pump (Horizontal, Single Stage)
+Service: Crude Oil Transfer — Atmospheric Distillation Column Feed
+Manufacturer: Kirloskar Brothers Ltd
+Model: KPD-450
+Rated Flow: 450 m³/hr
+Rated Head: 85 meters
+Motor: 250 kW, 415V, 3-phase, 1480 RPM
+Seal Type: Double Mechanical Seal (API Plan 53B)
+Bearing Type: Anti-friction, SKF 6316
+Impeller Diameter: 380 mm
+Casing Material: Carbon Steel (ASTM A216 WCB)
+Impeller Material: 316 Stainless Steel
+Commissioned: March 2019
+
+=====================================
+MAINTENANCE EVENT 1 — February 2022
+Date: 14-Feb-2022
+Work Order: WO-2022-0089
+Type: Corrective Maintenance
+Reported By: Operator Ramesh Kumar (Shift A)
+Reported Fault: High vibration alarm at 12.5 mm/s RMS (Trip setpoint: 15 mm/s). Unusual noise from DE bearing.
+
+Root Cause Analysis:
+- Found grease hardening and contamination in drive-end (DE) bearing (SKF 6316)
+- Bearing inner race showed pitting corrosion — classic sign of false brinelling from standby vibration
+- Seal flush line (API Plan 53B) had partial blockage reducing barrier fluid flow by 40%
+- Vibration spectrum showed 1X and 2X peaks indicating rotor imbalance contributed
+
+Actions Taken:
+1. Isolated pump, applied LOTO (Lockout-Tagout) as per PTW-2022-0089
+2. Drained pump casing and flushed with diesel
+3. Replaced DE bearing (SKF 6316) and NDE bearing (SKF 6313)
+4. Cleaned and flushed API Plan 53B seal support system
+5. Replaced barrier fluid (Shell Tellus S2 V 46)
+6. Balanced impeller dynamically — found 8.5g imbalance corrected to 0.3g
+7. Realigned pump-motor coupling (final alignment: 0.02mm parallel, 0.01mm angular)
+8. Replaced mechanical seal (Flowserve Type 28AT)
+
+Post-Maintenance Test:
+- Vibration: 2.1 mm/s RMS (Excellent — within ISO 10816-3 Zone A)
+- Flow: 448 m³/hr (within 0.5% of rated)
+- Current draw: 182A (rated 195A)
+- No seal leakage observed
+
+Parts Used:
+- SKF 6316 Bearing x1: ₹8,400
+- SKF 6313 Bearing x1: ₹5,200
+- Flowserve 28AT Mechanical Seal x1: ₹1,24,000
+- Barrier Fluid 5L x2: ₹3,600
+- Gaskets and seals set: ₹2,800
+Total Cost: ₹1,44,000
+Downtime: 18 hours
+
+=====================================
+MAINTENANCE EVENT 2 — June 2023
+Date: 22-Jun-2023
+Work Order: WO-2023-0341
+Type: Planned Preventive Maintenance (Annual Overhaul)
+Performed By: Mechanical Team + OEM Representative (Kirloskar)
+
+Inspection Findings:
+- Impeller wear ring clearance: 0.85mm (Acceptable limit: <1.0mm; OEM new clearance: 0.25mm)
+- Casing wear ring clearance: 0.95mm (approaching limit)
+- Shaft deflection: 0.08mm TIR (Acceptable: <0.05mm) — EXCEEDED LIMIT
+- DE Bearing temperature trending up: 68°C average (Alert: 75°C, Trip: 85°C)
+- Mechanical seal: No leakage, face wear within limits
+- Impeller: Minor cavitation pitting on suction eye (estimated 3-5% efficiency loss)
+
+Actions Taken:
+1. Replaced shaft (new shaft from OEM — SS410 material)
+2. Replaced impeller wear rings (Bronze — reduces galling risk)
+3. Replaced casing wear rings
+4. Replaced DE and NDE bearings (preventive)
+5. Impeller cleaned — pitting polished but not replaced (cost-benefit decision, supervisor approval)
+6. Full alignment check — corrected to 0.015mm parallel, 0.008mm angular
+7. Coupling elastomer replaced (Lovejoy L110 spider)
+8. All fasteners torqued to specification
+
+Parts Used:
+- Pump shaft (OEM): ₹45,000
+- Wear rings set (4 pieces): ₹18,500
+- Bearings set: ₹14,200
+- Coupling spider: ₹3,400
+- Misc fasteners/gaskets: ₹4,100
+Total Cost: ₹85,200
+Downtime: 12 hours (planned shutdown window)
+
+Post-Overhaul Performance:
+- Vibration: 1.8 mm/s RMS
+- Flow: 451 m³/hr
+- Efficiency: Estimated 78% (vs. design 82% — impeller pitting effect)
+- Seal: No leakage
+- All parameters normal
+
+Next Overhaul Due: June 2025
+Recommendation: Replace impeller at next overhaul to restore efficiency
+
+=====================================
+PREDICTIVE MAINTENANCE DATA (Ongoing)
+Vibration Monitoring (Monthly readings — mm/s RMS):
+Jan 2024: 2.3 | Feb 2024: 2.5 | Mar 2024: 2.8 | Apr 2024: 3.1
+May 2024: 3.4 | Jun 2024: 3.8 (Alert trending upward)
+
+Oil Analysis (Quarterly):
+Q1 2024: Particle count 15/12/9 (ISO 4406) — Normal
+Q2 2024: Particle count 19/16/12 — Elevated iron particles (wear indicator)
+
+Temperature Trending:
+DE Bearing: Trending from 58°C (Jan) to 71°C (Jun 2024) — approaching alert
+
+AI Prediction: Based on vibration and temperature trends, bearing replacement recommended within 90 days (by September 2024) to prevent unplanned failure.

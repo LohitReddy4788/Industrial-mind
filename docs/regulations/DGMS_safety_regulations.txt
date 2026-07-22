@@ -1,0 +1,98 @@
+DGMS (DIRECTORATE GENERAL OF MINES SAFETY) — SAFETY REGULATIONS
+Relevant Extracts for Petroleum Refinery and Chemical Plant Operations
+
+Note: While DGMS primarily governs mines, many petroleum installations (especially those with gas wells, exploration) fall under dual DGMS/OISD jurisdiction. This document covers applicable sections.
+
+SECTION A — MACHINERY SAFETY REGULATIONS
+
+A.1 Guards and Safety Devices (Mines Regulations 1955, Regulation 99-105):
+All rotating machinery must have:
+- Guards on all exposed moving parts (couplings, belt drives, chain drives, fan blades)
+- Guard must be designed so it CANNOT be removed while machine is running
+- Guard material: Steel mesh or solid sheet minimum (wood NOT acceptable in hazardous areas)
+- Guard must be maintained in good repair — damaged guards must be repaired before machine restart
+
+A.2 Operator Responsibilities:
+- NO operator shall work on moving machinery (adjust, clean, lubricate) unless machine is stopped AND isolated
+- Oiling of rotating bearings: ONLY if oil point is safely accessible from outside of guard
+- If in doubt about safety: STOP machine, report to supervisor
+
+SECTION B — ELECTRICAL SAFETY
+
+B.1 Earthing Requirements:
+All electrical equipment frames must be earthed. Earth resistance: <1 Ohm
+Earth continuity checks: Monthly by electrical department
+
+B.2 Working on Electrical Equipment:
+- Work on live equipment: PROHIBITED (except testing with approved test equipment by authorized person)
+- Minimum isolation: Two points of isolation with locks applied
+- Voltage testing before work: Mandatory using approved voltage indicator
+
+B.3 High Voltage (>1000V):
+- Only authorized electrical supervisors may work
+- Earthing sticks mandatory to discharge capacitance
+- Minimum two-person rule (no solo HV work)
+
+SECTION C — FIRE AND EXPLOSION PREVENTION
+
+C.1 Hot Work in Hazardous Areas:
+Requirements (aligned with OISD-105):
+1. Written permit from manager (equivalent to PTW Hot Work Permit)
+2. Gas test immediately before starting hot work: <20% LEL in work area
+   (Note: DGMS uses 20% LEL threshold vs OISD 10% — always use the more stringent OISD 10%)
+3. Re-test every 2 hours during hot work
+4. Fire watch: Present throughout and for minimum 30 minutes after work completion
+5. All flammable material removed or protected within 10-meter radius
+6. Emergency equipment (fire extinguisher, water hose) at worksite
+
+C.2 Prohibited Items in Hazardous Areas:
+- Matches, lighters, non-intrinsically safe mobile phones/cameras
+- Smoking: PROHIBITED within plant fence line (zero tolerance)
+- Non-Zone-rated electrical equipment
+- Open footwear (sandals) — safety shoes mandatory
+
+SECTION D — HEALTH AND PPE REQUIREMENTS
+
+D.1 Minimum PPE Requirements in Process Plant:
+Standard Working in Plant:
+- Safety helmet (IS 2925 certified)
+- Safety shoes with steel toe cap and anti-static (IS 15298 certified)
+- Safety glasses (ANSI Z87.1 or IS 5983)
+- Fire-retardant clothing (FRC) in hydrocarbon areas
+
+Additional for Specific Work:
+- Working with acids/caustics: Chemical splash goggles + face shield + chemical-resistant gloves + apron
+- Working with H2S risk areas: Calibrated personal H2S detector mandatory (alarm at 5 ppm, evacuate at 10 ppm)
+- Working at height (>1.8 meters): Full body harness + double lanyard + helmet with chinstrap
+- Welding: Welding shield, leather gloves, leather apron, safety shoes
+- Noise areas (>85 dB): Ear protection (ear plugs or muffs) — mandatory
+
+D.2 Medical Requirements:
+- All plant workers: Annual medical fitness examination
+- Workers in H2S, benzene, or lead service: 6-monthly blood tests (CBC, liver function)
+- First aid trained persons: Minimum 1 per shift per 50 workers
+
+SECTION E — ACCIDENT REPORTING AND INVESTIGATION
+
+E.1 Reporting Requirements:
+Fatal Accidents: Report to DGMS within 24 hours; Preliminary report within 7 days
+Serious Bodily Injury (fractures, burns >10% body, hospitalization): Report within 24 hours
+Dangerous Occurrences (explosions, fire, structural collapse): Report within 24 hours
+
+E.2 Investigation:
+- Plant management investigation: Begin within 24 hours
+- Root cause report: Within 30 days
+- Corrective actions: Implemented with target dates
+
+SECTION F — INSPECTION OF PRESSURE VESSELS AND BOILERS
+
+F.1 All pressure vessels in plant: Subject to Factories Act 1948 Section 31 and relevant State Factory Rules
+F.2 Inspection authority: Inspector of Factories (for Factories Act sites)
+F.3 Certificate validity: As per statutory inspection report (typically 3 years)
+F.4 Operation without valid certificate: Illegal — operators/managers liable for prosecution
+
+Key Contacts:
+DGMS Headquarters: Dhanbad, Jharkhand
+DGMS Regional Office (West): Mumbai — for Maharashtra and Gujarat plants
+OISD: New Delhi (Sector 62, Noida)
+PESO (Petroleum and Explosives Safety Organisation): Nagpur

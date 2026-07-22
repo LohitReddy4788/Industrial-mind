@@ -1,0 +1,68 @@
+MAINTENANCE WORK ORDER RECORD — PRESSURE VESSEL INSPECTION
+===========================================================
+Work Order No: WO-2023-0891
+Date: 22-Aug-2023
+Equipment Tag: V-205
+Equipment Name: Crude Oil Surge Drum (Horizontal)
+Location: Unit-1, Tank Farm Area, Block A
+Inspector: Amit Shah (Inspection Engineer, API-510 Certified)
+Supervisor: Priya Menon (Reliability Engineer)
+Third Party Inspector: K. Raghavan (Bureau Veritas India Pvt Ltd, Cert No: BV-2023-IND-0447)
+
+INSPECTION SCOPE:
+Statutory external and internal inspection as required by Factories Act Section 31 and
+OISD-118 Section 12. Previous inspection: Aug-2021. Due date per schedule: Aug-2023.
+
+VESSEL DATA:
+- Design Pressure: 8.5 barg
+- Operating Pressure: 5.2-5.8 barg
+- Design Temperature: 120°C
+- Operating Temperature: 68-75°C
+- Material: Carbon Steel SA-516 Gr 70
+- Year of Manufacture: 2009 (14 years old)
+- Corrosion Allowance: 3.2mm (original)
+
+INSPECTION FINDINGS:
+
+External Inspection:
+- Surface corrosion (paint failure): observed on 3 locations — bottom skirt and 2 nozzle areas
+- Insulation condition: 15% moisture ingress detected by thermography
+- Support condition: base plate corrosion, 0.8mm estimated depth — acceptable
+
+Internal Inspection (vessel decontaminated and gas-freed per SOP-012):
+1. Shell thickness measurements — 32 points surveyed using UT (Olympus 38DL Plus):
+   - Minimum recorded: 14.8mm (bottom quadrant, 2.1m from east end)
+   - Required minimum (per API-510): 14.2mm (based on corrosion allowance consumed)
+   - Remaining corrosion allowance: 0.6mm
+   - Corrosion rate: 0.16 mm/year (last 2 years)
+   - Calculated remaining life: 3.75 years (next inspection MANDATORY by Aug-2025)
+
+2. Weld inspection (20% of welds by MT):
+   - 3 locations showed minor surface indications — judged acceptable per ASME VIII Div.1
+   - No through-wall defects detected
+
+3. Nozzle inspection:
+   - Inlet nozzle (N1-DN150): 2mm buildup of deposits — cleaned
+   - Safety valve nozzle (N4-DN50): free and clear
+   - IMPORTANT: Drain nozzle (N6-DN25) shows weld deterioration at nozzle-shell junction.
+     Ultrasonics confirm 1.2mm thinning at weld toe. RECOMMEND: repair welding at next opportunity.
+     Currently safe to operate but must be re-inspected within 12 months.
+
+4. Internal surface: general corrosion, no pitting exceeding 15% depth allowance
+
+OVERPRESSURE PROTECTION:
+- PSV-V205A: tested and found to set at 9.1 barg (design: 9.5 barg). Within acceptable range.
+- PSV-V205B (standby): not tested this cycle — due for test within 6 months per OISD-118 Section 12.4
+
+OUTCOME:
+Vessel APPROVED FOR CONTINUED SERVICE subject to:
+1. Drain nozzle repair (N6): complete by Dec-2023
+2. PSV-V205B test: complete by Feb-2024
+3. Next full inspection: Aug-2025 (mandatory — remaining life margin)
+4. Repair insulation moisture ingress: Priority Medium (schedule in next shutdown)
+
+REGULATORY STATUS: Compliant with Factories Act Section 31 and OISD-118 Section 12.
+Third-party inspection certificate issued: BV-IND-2023-V205-0892.
+
+Signature: Amit Shah                       Date Closed: 23-Aug-2023
+Countersigned: K. Raghavan (BV)            Certificate Valid Until: 22-Aug-2025

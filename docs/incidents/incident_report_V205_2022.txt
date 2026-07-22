@@ -1,0 +1,66 @@
+INCIDENT INVESTIGATION REPORT
+==============================
+Incident ID: INC-2022-0189
+Date of Incident: 08-Mar-2022
+Time: 03:47 hrs (IST)
+Location: Unit-1, V-205 (Crude Oil Surge Drum), Refinery Block A
+Equipment Involved: V-205, PSV-V205A, PI-2201 (pressure instrument)
+Severity: High (Overpressure event — no injury, plant emergency declared)
+Investigator: R. Krishnamurthy (Plant Safety Officer)
+Reviewed by: D. Venkataraman (Head of HSE)
+
+INCIDENT DESCRIPTION:
+At 03:47 hrs night shift, high pressure alarm (PAH-V205) activated in control room at 7.8 barg
+(alarm setpoint: 7.5 barg). Night shift supervisor Ganesh Rao immediately initiated pressure
+reduction protocol. Pressure reached 8.2 barg before PSV-V205A lifted at 09:05 barg.
+
+PSV-V205A vented crude vapour through the flare header for approximately 4 minutes before
+pressure stabilised. No fire or explosion. No personnel injury. Emergency response team
+deployed as precaution per Emergency Response Plan ERP-001.
+
+Incident declared "Significant Process Safety Event" under OISD-118 Section 18.
+Statutory notification sent to PESO (Gujarat) within 24 hours as required.
+
+SEQUENCE OF EVENTS:
+- 01:30 hrs: Night shift operator noted feed composition change — high-GOR crude from storage T-12
+- 02:15 hrs: Inlet flow to V-205 increased by 18% (operator decision — not logged in shift handover)
+- 03:12 hrs: V-205 operating pressure noted at 6.9 barg — still within normal range
+- 03:45 hrs: Vapour-liquid separation became inadequate. Gas breakout in liquid phase.
+- 03:47 hrs: PAH-V205 alarm — pressure 7.8 barg
+- 03:51 hrs: Control room initiated pressure reduction — opened bypass to flare header
+- 03:55 hrs: PSV-V205A lifted at 9.05 barg. Pressure stabilised over 4 minutes.
+
+ROOT CAUSE:
+Primary Cause: High-GOR crude introduced to unit without proper vapour space management.
+Immediate Cause: Inlet flow increased without corresponding check on vapour handling capacity.
+Contributing Cause 1: Shift handover incomplete — incoming crude characteristics not communicated.
+Contributing Cause 2: PI-2201 found to be reading 0.3 barg low (fault found during post-incident check).
+  Operator was making decisions based on instrument reading of 6.6 barg when actual was 6.9 barg.
+
+REGULATORY IMPLICATION:
+OISD-118 Section 12.3: Pressure vessels shall not be operated above design pressure.
+OISD-118 Section 12.4: Safety valves shall be tested at intervals not exceeding 12 months.
+PSV-V205B (standby): NOT tested in previous 14 months — overdue. This was identified as a
+contributing gap. Had PSV-V205A failed to lift, V-205 would have had no overpressure protection.
+
+FACTORY ACT SECTION 31: All pressure plant must be operated within safe operating limits.
+Written scheme of examination required — existing scheme reviewed and found adequate.
+
+CORRECTIVE ACTIONS:
+1. IMMEDIATE: PI-2201 replaced (Completed 09-Mar-2022, calibrated to ±0.05 barg accuracy)
+2. IMMEDIATE: PSV-V205B tested and recertified (Completed 12-Mar-2022, set at 9.5 barg)
+3. SHORT TERM: Shift handover procedure revised — mandatory crude quality communication checklist
+   (Implemented 01-Apr-2022)
+4. SHORT TERM: DCS alarm for PI-2201 deviation added (PI-2201 vs PI-2202 cross-check alarm)
+5. MEDIUM TERM: Install gas chromatograph analyzer on V-205 inlet to detect high-GOR crude automatically
+   (Engineering study initiated — Target Dec-2022)
+
+LESSONS LEARNED:
+- High-GOR crude handling requires additional vapour management steps not in current SOP-012.
+  SOP-012 revision required to add section on high-GOR crude operation.
+- Instrument redundancy critical for pressure vessels — single instrument reading trusted without check.
+- PSV testing schedule adherence must be tracked at plant level — not just per equipment.
+- Night shift operations carry higher risk due to reduced supervision and communication gaps.
+
+Signature: R. Krishnamurthy              Report Date: 18-Mar-2022
+Approved by: D. Venkataraman            Date: 22-Mar-2022

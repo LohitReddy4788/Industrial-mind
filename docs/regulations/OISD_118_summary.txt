@@ -1,0 +1,102 @@
+OISD STANDARD 118 — KEY REQUIREMENTS SUMMARY
+==============================================
+Standard: OISD-118 (Oil Industry Safety Directorate)
+Title: Layouts for Oil and Gas Installations
+Applicability: Petroleum refineries, oil storage terminals, LPG plants, pipelines
+Mandatory for: All petroleum sector installations in India under PESO/MoPNG jurisdiction
+
+SECTION 6 — ROTATING EQUIPMENT
+
+Section 6.1 — General Requirements:
+All rotating equipment in hydrocarbon service shall:
+(a) Be designed, installed, and maintained per API standards (API-610 for pumps)
+(b) Have vibration monitoring capability where process criticality demands
+(c) Not be operated above design limits — speed, temperature, pressure, flow
+(d) Have mechanical seals with appropriate flush plans per API-682
+
+Section 6.2 — Centrifugal Pumps:
+6.2.1 Minimum Flow Protection:
+All centrifugal pumps shall be protected against operation below minimum continuous safe flow.
+Where automatic minimum flow bypass is not provided, operating procedures must clearly define
+minimum flow requirements and consequences of low-flow operation.
+NOTE: Manual monitoring alone is NOT considered adequate protection for pumps in hazardous service.
+
+6.2.2 Mechanical Seal Requirements:
+(a) All pumps in flammable hydrocarbon service shall use API-682 compliant mechanical seals
+(b) Seal flush system (API Plan) must be maintained in serviceable condition at all times
+(c) Seal flush flow rate must be verified during each maintenance turnaround
+(d) Dry-run protection (dry-run detector or minimum flow protection) is MANDATORY for
+    single mechanical seals in Category 1 service (high pressure, high temperature, toxic, or flammable)
+(e) Dual seals: backup seal must be tested at every planned maintenance to confirm integrity
+
+6.2.3 Vibration Limits:
+Normal operating vibration: < 5.0 mm/s RMS
+Alert level: 5.0 – 7.5 mm/s RMS (investigate cause)
+Danger level: > 7.5 mm/s RMS (shutdown required)
+Action time after danger alarm: immediate (within 15 minutes)
+
+6.2.4 Bearing Temperature Limits:
+Normal: < 60°C above ambient
+Alert: 60-70°C above ambient
+Danger: > 70°C above ambient (shutdown required)
+
+SECTION 12 — PRESSURE VESSELS
+
+Section 12.1 — General:
+All pressure vessels shall be designed, fabricated, tested, and operated per IBR (Indian Boiler Regulations),
+ASME Section VIII, or equivalent national standard. Vessels operating above 1 barg require
+a written scheme of examination under Factory Act Section 31.
+
+Section 12.2 — Safe Operating Limits:
+No pressure vessel shall be operated:
+(a) Above its design pressure
+(b) Above its design temperature
+(c) Below its design minimum temperature (to avoid brittle fracture)
+Operating procedures must specify all three limits clearly and conspicuously at the operating station.
+
+Section 12.3 — Overpressure Protection:
+12.3.1 Every pressure vessel shall have at least one pressure safety valve (PSV) set at or below MAWP.
+12.3.2 PSV shall be sized to prevent pressure rising more than 10% above MAWP under maximum relieving load.
+12.3.3 PSV discharge shall be piped to a safe location (flare or safe vent) — NEVER to atmosphere near personnel.
+12.3.4 CRITICALLY: No isolation valve shall be placed between a pressure vessel and its PSV unless
+    a car-sealed open (CSO) block valve arrangement is provided.
+
+Section 12.4 — Inspection and Testing of Safety Valves:
+(a) All PSVs shall be tested and recertified at intervals not exceeding 12 months.
+(b) Test records must be maintained and available for inspection.
+(c) Where PSV testing is overdue: vessel shall NOT be operated until PSV is tested and certified.
+(d) PSV lifting test must be conducted on a certified test bench — field testing not acceptable
+    except for initial set-pressure verification.
+
+Section 12.5 — Statutory Inspection:
+External inspection: minimum every 2 years by competent person
+Internal inspection: minimum every 4 years or as per fitness-for-service methodology
+Remaining life < 2 years: notify Competent Authority and accelerate inspection schedule
+
+SECTION 18 — INCIDENT REPORTING
+
+Section 18.1 — Significant Process Safety Events:
+The following must be reported to PESO (Petroleum and Explosives Safety Organisation) within 24 hours:
+- Any PSV lifting due to overpressure (other than controlled test)
+- Any fire lasting more than 5 minutes or with damage
+- Any explosion
+- Any fatality or serious injury
+- Any uncontrolled release of hydrocarbons > 5 tonnes
+
+Section 18.2 — Root Cause Analysis:
+For Severity High or above: formal root cause analysis (RCA) using RCFA methodology required within 30 days.
+RCA report to be submitted to OISD if event resulted in fatality or major damage.
+
+SECTION 4 — PERMIT TO WORK SYSTEM
+
+Section 4.1 — Requirements:
+A formal Permit to Work (PTW) system is mandatory for all maintenance and non-routine operations.
+Hot Work Permit required for: welding, grinding, cutting, any ignition source in hazardous area.
+Confined Space Entry Permit required for: entry into any vessel, tank, pit, trench, or enclosed space.
+
+Section 4.2 — PTW Issuer Requirements:
+PTW must be issued by Area Authority (designated role) — not by maintenance personnel.
+PTW must be signed and displayed at the work location throughout the job.
+PTW cancellation: immediately if conditions change or hazard detected.
+
+END OF OISD-118 SUMMARY

@@ -1,0 +1,91 @@
+THE FACTORIES ACT, 1948
+RELEVANT SECTIONS FOR PETROLEUM INDUSTRY OPERATIONS
+=====================================================
+Source: Ministry of Labour and Employment, Government of India
+Applicable to: All factories registered under the Factories Act, including petroleum refineries
+
+SECTION 31 — PRESSURE PLANT
+
+31(1) If in any factory, any part of the plant or machinery used in a manufacturing process is
+operated at a pressure above atmospheric pressure, effective measures shall be taken to ensure
+that the safe working pressure of such part is not exceeded.
+
+31(2) The State Government may make rules providing for the examination and testing of any plant
+or machinery such as is referred to in sub-section (1) and prescribing such other safety measures
+in relation thereto as may in its opinion be necessary in the interests of the safety of the workers.
+
+INTERPRETATION AND APPLICATION:
+- All pressure vessels operating above atmospheric pressure are covered
+- "Effective measures" includes PSV installation, operating limits, inspection, and trained operators
+- Written Scheme of Examination (WSE) is required for all pressure plant
+- Annual statutory inspection by Inspecting Authority (or their approved representative) required
+- WSE must be reviewed and renewed at intervals specified by competent authority (typically 14 months max)
+- Operating companies must maintain pressure plant inspection records available for 7 years
+
+ENFORCEMENT: Factory Inspectors of the State Directorate of Industrial Safety and Health (DISH)
+have authority to inspect, issue prohibition notices, and prosecute violations.
+
+SECTION 40-B — SAFETY OFFICERS
+
+40-B: In every factory where (a) one thousand or more workers are ordinarily employed, or
+(b) the manufacturing process involves the risk of bodily injury, poisoning, or disease — the
+occupier shall, if so required by the State Government by notification in the Official Gazette,
+appoint such number of Safety Officers with such qualifications and duties as may be prescribed.
+
+For petroleum refineries: Safety Officer appointment is MANDATORY irrespective of employee count
+(Schedule I industry under Factories Act — inherently hazardous).
+
+SECTION 41-A — SITE APPRAISAL COMMITTEE
+
+For hazardous processes (Schedule I industries including petroleum): A Site Appraisal Committee
+comprising representatives from the factory, local authority, and state government shall be
+constituted. Committee must be consulted before any expansion of hazardous operations.
+
+SECTION 41-B — COMPULSORY DISCLOSURE OF INFORMATION
+
+The occupier shall disclose all information regarding:
+(a) Hazards of the manufacturing process
+(b) Safety measures required for control of such hazards
+...to workers and adjacent communities. This disclosure must be made annually.
+
+SECTION 41-C — SPECIFIC RESPONSIBILITY OF THE OCCUPIER
+
+Where hazardous substances are used:
+(a) The occupier shall maintain accurate and up-to-date health records of all workers
+(b) Appoint a Safety Officer experienced in hazard control
+(c) Provide workers with training on hazards and protective measures
+(d) Prepare an on-site emergency plan and coordinate with local authorities for off-site plan
+
+SECTION 41-H — RIGHT OF WORKERS TO WARN ABOUT IMMINENT DANGER
+
+Any worker who has reasonable apprehension that there is an imminent danger to life or health
+may bring the same to the notice of the occupier, manager, or safety officer and shall not
+be dismissed or otherwise prejudiced for doing so.
+
+IMPLICATION FOR MAINTENANCE: Maintenance personnel who raise safety concerns about equipment
+condition are protected under this section. Suppression of safety concerns by management
+constitutes a violation of the Factories Act.
+
+SECTION 92 — PENALTIES
+
+Violation of the Factories Act: Fine up to Rs 2 lakh and/or imprisonment up to 2 years.
+If violation results in death: Fine up to Rs 3 lakh and/or imprisonment up to 7 years.
+Continuing violation (after conviction): Additional fine of up to Rs 1000 per day.
+
+SCHEDULE I — HAZARDOUS PROCESSES (relevant extract):
+The following manufacturing processes are declared hazardous under Section 2(cb):
+Item 29: Operations involving use of petroleum and its products, including refining
+Item 30: Operations involving use of dangerous petroleum gases
+Item 31: Manufacture and handling of explosives
+
+NOTE: Petroleum refineries operating under Schedule I are subject to enhanced inspection
+frequency, mandatory Safety Committee, mandatory on-site emergency plan, and mandatory
+disclosure to workers. DISH inspection may be conducted without advance notice.
+
+SELECTED STATE-SPECIFIC RULES (Gujarat Factories Rules, 1963):
+Rule 68A: Every pressure vessel shall be examined at least once in every 12 months by a
+competent person — this is MORE STRINGENT than the central Factories Act requirement.
+Rule 68B: All pressure relief devices shall be tested at least once in 12 months.
+Rule 68C: Records of all pressure plant examinations shall be kept for a minimum of 10 years.
+
+END OF SECTION SUMMARY

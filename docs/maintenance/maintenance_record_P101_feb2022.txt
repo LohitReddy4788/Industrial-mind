@@ -1,0 +1,54 @@
+MAINTENANCE WORK ORDER RECORD
+=============================
+Work Order No: WO-2022-0218
+Date: 18-Feb-2022
+Equipment Tag: P-101
+Equipment Name: Centrifugal Pump — Crude Desalter Feed
+Location: Unit-3, Refinery Block B
+Technician: Suresh Nair (Maintenance Technician)
+Supervisor: Priya Menon (Reliability Engineer)
+
+REASON FOR MAINTENANCE:
+Planned preventive maintenance — 12-month interval per PM schedule.
+Also: operator report of intermittent seal leakage (~2 drops/min) since 10-Feb-2022.
+
+OBSERVATIONS ON INSPECTION:
+- Mechanical seal: seal faces showed minor wear, acceptable but approaching replacement threshold
+- API Plan 11 flush line: found 25% blocked by accumulated deposits — partially restricting flush flow
+- Bearing condition: vibration 3.2 mm/s (DE), 2.8 mm/s (NDE) — within normal range
+- Coupling: alignment within tolerance (0.03mm angular)
+- Motor insulation resistance: 850 MΩ — acceptable
+- NOTE: This is the 3rd seal inspection in 24 months on P-101. Pattern of rapid seal wear noted
+  and flagged to Reliability team for investigation (Pattern noticed by Priya Menon).
+
+ACTIONS TAKEN:
+1. Replaced mechanical seal faces (stationary and rotary) — preventive replacement
+2. Cleaned and cleared Plan 11 flush line — full flow restored
+3. Checked and re-torqued all flange connections on pump casing
+4. Lubricated bearings — Mobilux EP2 grease (60g per bearing)
+
+ROOT CAUSE OF SEAL WEAR:
+Investigation by Priya Menon: flush flow below minimum required (1.5 L/min).
+Orifice partially blocked was allowing only 0.9 L/min. Insufficient flush
+causes seal face overheating → accelerated wear. Recommend quarterly orifice check.
+
+MEASUREMENTS AFTER REPAIR:
+- Vibration: 3.1 mm/s (DE), 2.7 mm/s (NDE)
+- Seal flush flow: 1.8 L/min (restored)
+- No seal leakage observed
+
+PARTS USED:
+- Seal face set (stationary + rotary): 1 set
+- Flush line orifice (replacement): 1 unit (precautionary)
+- Grease Mobilux EP2: 120g
+
+NEXT MAINTENANCE DUE:
+- Seal inspection: Feb-2023 (12-month interval)
+- Flush orifice check: May-2022 (3-month interval — increased frequency due to blocking pattern)
+
+NOTE TO RELIABILITY: P-101 has now had seal attention in Aug-2020, Oct-2021, and Feb-2022.
+Frequency is increasing. Recommend root cause analysis on seal life. Possible upgrade
+to Plan 23 (seal water cooling) to extend seal life — Priya Menon to evaluate.
+
+Regulatory Reference: OISD-118 Section 6.2
+Signature: Suresh Nair                     Date Closed: 19-Feb-2022

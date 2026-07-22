@@ -1,0 +1,86 @@
+MAINTENANCE WORK ORDER RECORD
+==============================
+Work Order: WO-2023-1147
+Equipment ID: E-304
+Equipment Name: Crude Preheat Heat Exchanger (Shell & Tube)
+Location: Unit-2, Preheat Train B
+Date of Maintenance: 22-Nov-2023
+Maintenance Type: Corrective — Fouling and Performance Degradation
+
+Technician: Ramesh Pillai (Senior Maintenance Technician)
+Supervised by: Suresh Nair (Lead Maintenance Engineer)
+Approved by: Priya Menon (Reliability Engineer)
+
+WORK DESCRIPTION:
+E-304 performance degradation reported by operations — crude preheat temperature dropped from
+design 165°C to 138°C over past 6 weeks. Duty recovery: originally 4.2 MW, current 2.8 MW.
+Differential pressure across exchanger increased from 1.1 barg to 3.4 barg — indicative of
+significant tube-side fouling. Decision made to pull and clean.
+
+WORK PERFORMED:
+1. Exchanger isolated — shell-side (hot crude) and tube-side (water) block valves closed.
+2. Pressure relieved both sides — vented to closed drain system.
+3. Shell head removed (Craftsman: Pillai, K. Murthy).
+4. Bundle pulled using extraction tool — bundle weight approx. 2.4 tonnes.
+5. Tube inspection:
+   - Heavy crude fouling on outer surface (shell side) — asphaltene deposits, avg 4mm thick.
+   - Tube inner surface (tube side): light scaling.
+   - Bundle inspection found 7 tubes plugged (out of 148 total — 4.7% plugged).
+   - Maximum acceptable plugging for E-304 per design: 15% — within acceptable limit.
+6. High-pressure water jetting (Karcher unit, 300 bar): cleaned both shell and tube sides.
+7. Post-cleaning tube inspection: all remaining 141 tubes clear, no new damage found.
+8. 7 plugged tubes remained plugged (pre-existing plugs from previous turnaround TU-2021).
+9. Bundle reinserted. Shell head torqued per Appendix A.
+10. Pressure test: 12 barg (hydrotest) — no leaks found.
+11. Returned to service: crude preheat temperature reached 161°C within 2 hours (design 165°C).
+
+OBSERVATIONS AND FINDINGS:
+- Fouling rate significantly higher than design: design fouling factor 0.00017 m²K/W (TEMA-R),
+  observed fouling corresponding to approximately 0.00043 m²K/W — 2.5x design value.
+- High fouling rate attributed to heavier crude slate being processed since Q3-2023.
+- Fouling is primarily asphaltene deposition — consistent with crude API gravity < 22.
+- Previous work order (WO-2021-0887) noted same fouling pattern. Interval between cleanings
+  historically 18-24 months. With new heavy crude: interval may shorten to 9-12 months.
+- Tube plugging pattern: plugged tubes all in bottom two rows of bundle — consistent with
+  settled sediment and heavy asphaltene accumulation in low velocity zones.
+- Corrosion: no active corrosion found. Wall thickness measurements acceptable (all > 2.6mm vs
+  minimum required 2.1mm). Estimated remaining life without additional corrosion: >10 years.
+
+REGULATORY COMPLIANCE:
+- Maintenance conducted per TEMA-R standards for heat exchanger maintenance.
+- Pressure test per ASME PCC-1 requirements.
+- Confined space entry not required (bundle external cleaning).
+- PTW: Cold Work Permit CWP-2023-1089 issued, valid 22-Nov-2023.
+
+RECOMMENDATIONS:
+1. IMMEDIATE: Increase E-304 cleaning frequency to 9-12 months given current crude slate.
+   Trigger: differential pressure > 2.5 barg OR duty drop > 0.8 MW from post-clean baseline.
+2. SHORT TERM: Evaluate online fouling monitoring (Clamp-on DP transmitter, DPT-E304) for
+   continuous trending — currently only manual readings twice weekly.
+3. MEDIUM TERM: Consider anti-fouling insert (Tube Turbulators) for high-fouling tubes in
+   lower bundle rows to reduce deposition velocity.
+4. LONG TERM: When next opportunity arises, review bundle design — current TEMA-R bundle
+   may not be optimum for heavy crude service. Consider spiral corrugated tubes or twisted tape inserts.
+
+FAILURE MODE CLASSIFICATION:
+Primary failure mode: Fouling (process-side)
+Failure mechanism: Asphaltene deposition from heavy crude
+Equipment criticality: High (preheat train — energy efficiency and crude capacity impact)
+Reliability classification: Wear/aging, predictable, manageable by cleaning frequency
+
+PARTS AND MATERIALS:
+- Gaskets (full set — corrugated stainless): 12 pcs
+- Stud bolt set (replacement): 24 pcs
+- Thread sealant (Loctite 577): 2 tubes
+- Water jetting service (external contractor Hydroclean Ltd): INR 45,000
+
+NEXT MAINTENANCE DUE:
+Scheduled inspection: Aug-2024 (9 months)
+Next cleaning trigger: DP > 2.5 barg or preheat outlet < 155°C — whichever comes first.
+
+WORK ORDER CLOSURE:
+Work completed satisfactorily. Equipment returned to operations 23-Nov-2023 at 06:30 hrs.
+Total downtime: 32 hours.
+
+Signature: Ramesh Pillai                    Date: 23-Nov-2023
+Supervisor: Suresh Nair                     Date: 23-Nov-2023

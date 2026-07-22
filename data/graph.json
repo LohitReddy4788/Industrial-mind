@@ -1,0 +1,3427 @@
+{
+  "nodes": [
+    {
+      "id": "incident_report_P101_2021.txt",
+      "label": "Document",
+      "filename": "incident_report_P101_2021.txt",
+      "doc_type": "incidents",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\incidents\\incident_report_P101_2021.txt"
+    },
+    {
+      "id": "incident_report_V205_2022.txt",
+      "label": "Document",
+      "filename": "incident_report_V205_2022.txt",
+      "doc_type": "incidents",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\incidents\\incident_report_V205_2022.txt"
+    },
+    {
+      "id": "maintenance_record_E304_nov2023.txt",
+      "label": "Document",
+      "filename": "maintenance_record_E304_nov2023.txt",
+      "doc_type": "maintenance",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\maintenance\\maintenance_record_E304_nov2023.txt"
+    },
+    {
+      "id": "maintenance_record_P101_feb2022.txt",
+      "label": "Document",
+      "filename": "maintenance_record_P101_feb2022.txt",
+      "doc_type": "maintenance",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\maintenance\\maintenance_record_P101_feb2022.txt"
+    },
+    {
+      "id": "maintenance_record_P101_jun2023.txt",
+      "label": "Document",
+      "filename": "maintenance_record_P101_jun2023.txt",
+      "doc_type": "maintenance",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\maintenance\\maintenance_record_P101_jun2023.txt"
+    },
+    {
+      "id": "maintenance_record_V205_aug2023.txt",
+      "label": "Document",
+      "filename": "maintenance_record_V205_aug2023.txt",
+      "doc_type": "maintenance",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\maintenance\\maintenance_record_V205_aug2023.txt"
+    },
+    {
+      "id": "SOP-007_Pump_Maintenance.txt",
+      "label": "Document",
+      "filename": "SOP-007_Pump_Maintenance.txt",
+      "doc_type": "procedures",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\procedures\\SOP-007_Pump_Maintenance.txt"
+    },
+    {
+      "id": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "label": "Document",
+      "filename": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "doc_type": "procedures",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\procedures\\SOP-012_Pressure_Vessel_Inspection.txt"
+    },
+    {
+      "id": "Factory_Act_1948_relevant_sections.txt",
+      "label": "Document",
+      "filename": "Factory_Act_1948_relevant_sections.txt",
+      "doc_type": "regulations",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\regulations\\Factory_Act_1948_relevant_sections.txt"
+    },
+    {
+      "id": "OISD_118_summary.txt",
+      "label": "Document",
+      "filename": "OISD_118_summary.txt",
+      "doc_type": "regulations",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\regulations\\OISD_118_summary.txt"
+    },
+    {
+      "id": "CR-2022",
+      "label": "Equipment",
+      "name": "Equipment CR-2022"
+    },
+    {
+      "id": "FCV-12A",
+      "label": "Equipment",
+      "name": "Equipment FCV-12A"
+    },
+    {
+      "id": "INC-2021",
+      "label": "Equipment",
+      "name": "Equipment INC-2021"
+    },
+    {
+      "id": "MN-2021",
+      "label": "Equipment",
+      "name": "Equipment MN-2021"
+    },
+    {
+      "id": "OISD-118",
+      "label": "Regulation",
+      "name": "Equipment OISD-118",
+      "standard_name": "OISD",
+      "number": "118"
+    },
+    {
+      "id": "P-101",
+      "label": "Equipment",
+      "name": "Equipment P-101"
+    },
+    {
+      "id": "P-102",
+      "label": "Equipment",
+      "name": "Equipment P-102"
+    },
+    {
+      "id": "P101",
+      "label": "Equipment",
+      "name": "Equipment P101"
+    },
+    {
+      "id": "WO-2021",
+      "label": "Equipment",
+      "name": "Equipment WO-2021"
+    },
+    {
+      "id": "seal_failure",
+      "label": "FailureMode",
+      "name": "seal failure"
+    },
+    {
+      "id": "vibration",
+      "label": "FailureMode",
+      "name": "vibration"
+    },
+    {
+      "id": "overheating",
+      "label": "FailureMode",
+      "name": "overheating"
+    },
+    {
+      "id": "cavitation",
+      "label": "FailureMode",
+      "name": "cavitation"
+    },
+    {
+      "id": "INC_incident_report_P101_2021.txt",
+      "label": "Incident",
+      "severity": "Low",
+      "date": "unknown",
+      "document": "incident_report_P101_2021.txt"
+    },
+    {
+      "id": "Desalter_Feed",
+      "label": "Person",
+      "name": "Desalter Feed"
+    },
+    {
+      "id": "Suresh_Nair",
+      "label": "Person",
+      "name": "Suresh Nair"
+    },
+    {
+      "id": "R._Krishnamurthy",
+      "label": "Person",
+      "name": "R. Krishnamurthy"
+    },
+    {
+      "id": "Amit_Shah",
+      "label": "Person",
+      "name": "Amit Shah"
+    },
+    {
+      "id": "Priya_Menon",
+      "label": "Person",
+      "name": "Priya Menon"
+    },
+    {
+      "id": "R._Krishnamurthy_Date",
+      "label": "Person",
+      "name": "R. Krishnamurthy Date"
+    },
+    {
+      "id": "ERP-001",
+      "label": "Equipment",
+      "name": "Equipment ERP-001"
+    },
+    {
+      "id": "INC-2022",
+      "label": "Equipment",
+      "name": "Equipment INC-2022"
+    },
+    {
+      "id": "PI-2201",
+      "label": "Equipment",
+      "name": "Equipment PI-2201"
+    },
+    {
+      "id": "PI-2202",
+      "label": "Equipment",
+      "name": "Equipment PI-2202"
+    },
+    {
+      "id": "SOP-012",
+      "label": "Equipment",
+      "name": "Equipment SOP-012"
+    },
+    {
+      "id": "T-12",
+      "label": "Equipment",
+      "name": "Equipment T-12"
+    },
+    {
+      "id": "V-205",
+      "label": "Equipment",
+      "name": "Equipment V-205"
+    },
+    {
+      "id": "V205",
+      "label": "Equipment",
+      "name": "Equipment V205"
+    },
+    {
+      "id": "V205A",
+      "label": "Equipment",
+      "name": "Equipment V205A"
+    },
+    {
+      "id": "V205B",
+      "label": "Equipment",
+      "name": "Equipment V205B"
+    },
+    {
+      "id": "explosion",
+      "label": "FailureMode",
+      "name": "explosion"
+    },
+    {
+      "id": "fire",
+      "label": "FailureMode",
+      "name": "fire"
+    },
+    {
+      "id": "Factory Act-31",
+      "label": "Regulation",
+      "standard_name": "Factory Act",
+      "number": "31"
+    },
+    {
+      "id": "INC_incident_report_V205_2022.txt",
+      "label": "Incident",
+      "severity": "Critical",
+      "date": "unknown",
+      "document": "incident_report_V205_2022.txt"
+    },
+    {
+      "id": "Ganesh_Rao",
+      "label": "Person",
+      "name": "Ganesh Rao"
+    },
+    {
+      "id": "D._Venkataraman",
+      "label": "Person",
+      "name": "D. Venkataraman"
+    },
+    {
+      "id": "R._Krishnamurthy_Report",
+      "label": "Person",
+      "name": "R. Krishnamurthy Report"
+    },
+    {
+      "id": "CWP-2023",
+      "label": "Equipment",
+      "name": "Equipment CWP-2023"
+    },
+    {
+      "id": "E-304",
+      "label": "Equipment",
+      "name": "Equipment E-304"
+    },
+    {
+      "id": "E304",
+      "label": "Equipment",
+      "name": "Equipment E304"
+    },
+    {
+      "id": "TU-2021",
+      "label": "Equipment",
+      "name": "Equipment TU-2021"
+    },
+    {
+      "id": "WO-2023",
+      "label": "Equipment",
+      "name": "Equipment WO-2023"
+    },
+    {
+      "id": "corrosion",
+      "label": "FailureMode",
+      "name": "corrosion"
+    },
+    {
+      "id": "leak",
+      "label": "FailureMode",
+      "name": "leak"
+    },
+    {
+      "id": "K._Murthy",
+      "label": "Person",
+      "name": "K. Murthy"
+    },
+    {
+      "id": "Maintenance_Technician",
+      "label": "Person",
+      "name": "Maintenance Technician"
+    },
+    {
+      "id": "Appendix_A._10",
+      "label": "Person",
+      "name": "Appendix A. 10"
+    },
+    {
+      "id": "WO-2022",
+      "label": "Equipment",
+      "name": "Equipment WO-2022"
+    },
+    {
+      "id": "Mobilux_EP2",
+      "label": "Person",
+      "name": "Mobilux EP2"
+    },
+    {
+      "id": "MN-2023",
+      "label": "Equipment",
+      "name": "Equipment MN-2023"
+    },
+    {
+      "id": "SKF2023",
+      "label": "Equipment",
+      "name": "Equipment SKF2023"
+    },
+    {
+      "id": "erosion",
+      "label": "FailureMode",
+      "name": "erosion"
+    },
+    {
+      "id": "John_Crane_Type",
+      "label": "Person",
+      "name": "John Crane Type"
+    },
+    {
+      "id": "John_Crane",
+      "label": "Person",
+      "name": "John Crane"
+    },
+    {
+      "id": "Rajesh_Kumar",
+      "label": "Person",
+      "name": "Rajesh Kumar"
+    },
+    {
+      "id": "API-510",
+      "label": "Equipment",
+      "name": "Equipment API-510"
+    },
+    {
+      "id": "APPROVED",
+      "label": "Equipment",
+      "name": "Equipment APPROVED"
+    },
+    {
+      "id": "BV-2023",
+      "label": "Equipment",
+      "name": "Equipment BV-2023"
+    },
+    {
+      "id": "DN150",
+      "label": "Equipment",
+      "name": "Equipment DN150"
+    },
+    {
+      "id": "IND-0447",
+      "label": "Equipment",
+      "name": "Equipment IND-0447"
+    },
+    {
+      "id": "IND-2023",
+      "label": "Equipment",
+      "name": "Equipment IND-2023"
+    },
+    {
+      "id": "SA-516",
+      "label": "Equipment",
+      "name": "Equipment SA-516"
+    },
+    {
+      "id": "K._Raghavan",
+      "label": "Person",
+      "name": "K. Raghavan"
+    },
+    {
+      "id": "API-510_Certified",
+      "label": "Person",
+      "name": "API-510 Certified"
+    },
+    {
+      "id": "LOTO-001",
+      "label": "Equipment",
+      "name": "Equipment LOTO-001"
+    },
+    {
+      "id": "P-201",
+      "label": "Equipment",
+      "name": "Equipment P-201"
+    },
+    {
+      "id": "P-202",
+      "label": "Equipment",
+      "name": "Equipment P-202"
+    },
+    {
+      "id": "SOP-007",
+      "label": "Equipment",
+      "name": "Equipment SOP-007"
+    },
+    {
+      "id": "blockage",
+      "label": "FailureMode",
+      "name": "blockage"
+    },
+    {
+      "id": "PROC_SOP-007_Pump_Maintenance.txt",
+      "label": "Procedure",
+      "name": "SOP-007_Pump_Maintenance.txt",
+      "document": "SOP-007_Pump_Maintenance.txt"
+    },
+    {
+      "id": "Appendix_A",
+      "label": "Person",
+      "name": "Appendix A"
+    },
+    {
+      "id": "Maintenance_Notification",
+      "label": "Person",
+      "name": "Maintenance Notification"
+    },
+    {
+      "id": "V-201",
+      "label": "Equipment",
+      "name": "Equipment V-201"
+    },
+    {
+      "id": "V-301",
+      "label": "Equipment",
+      "name": "Equipment V-301"
+    },
+    {
+      "id": "V-302",
+      "label": "Equipment",
+      "name": "Equipment V-302"
+    },
+    {
+      "id": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "label": "Procedure",
+      "name": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "document": "SOP-012_Pressure_Vessel_Inspection.txt"
+    },
+    {
+      "id": "INS-003",
+      "label": "Equipment",
+      "name": "Equipment INS-003"
+    },
+    {
+      "id": "API-610",
+      "label": "Equipment",
+      "name": "Equipment API-610"
+    },
+    {
+      "id": "API-682",
+      "label": "Equipment",
+      "name": "Equipment API-682"
+    },
+    {
+      "id": "incident_report_C401_gas_leak_2023.txt",
+      "label": "Document",
+      "filename": "incident_report_C401_gas_leak_2023.txt",
+      "doc_type": "incidents",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\incidents\\incident_report_C401_gas_leak_2023.txt"
+    },
+    {
+      "id": "incident_report_P101_seal_failure_2023.txt",
+      "label": "Document",
+      "filename": "incident_report_P101_seal_failure_2023.txt",
+      "doc_type": "incidents",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\incidents\\incident_report_P101_seal_failure_2023.txt"
+    },
+    {
+      "id": "maintenance_record_C401_compressor.txt",
+      "label": "Document",
+      "filename": "maintenance_record_C401_compressor.txt",
+      "doc_type": "maintenance",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\maintenance\\maintenance_record_C401_compressor.txt"
+    },
+    {
+      "id": "maintenance_record_HE501_heat_exchanger.txt",
+      "label": "Document",
+      "filename": "maintenance_record_HE501_heat_exchanger.txt",
+      "doc_type": "maintenance",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\maintenance\\maintenance_record_HE501_heat_exchanger.txt"
+    },
+    {
+      "id": "maintenance_record_P101_complete_history.txt",
+      "label": "Document",
+      "filename": "maintenance_record_P101_complete_history.txt",
+      "doc_type": "maintenance",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\maintenance\\maintenance_record_P101_complete_history.txt"
+    },
+    {
+      "id": "SOP-001_Permit_to_Work_System.txt",
+      "label": "Document",
+      "filename": "SOP-001_Permit_to_Work_System.txt",
+      "doc_type": "procedures",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\procedures\\SOP-001_Permit_to_Work_System.txt"
+    },
+    {
+      "id": "SOP-015_Rotating_Equipment_Startup.txt",
+      "label": "Document",
+      "filename": "SOP-015_Rotating_Equipment_Startup.txt",
+      "doc_type": "procedures",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\procedures\\SOP-015_Rotating_Equipment_Startup.txt"
+    },
+    {
+      "id": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "label": "Document",
+      "filename": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "doc_type": "procedures",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\procedures\\SOP-020_Emergency_Shutdown_Procedure.txt"
+    },
+    {
+      "id": "DGMS_safety_regulations.txt",
+      "label": "Document",
+      "filename": "DGMS_safety_regulations.txt",
+      "doc_type": "regulations",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\regulations\\DGMS_safety_regulations.txt"
+    },
+    {
+      "id": "OISD_118_detailed.txt",
+      "label": "Document",
+      "filename": "OISD_118_detailed.txt",
+      "doc_type": "regulations",
+      "path": "C:\\Users\\LOHIT REDDY\\OneDrive\\Desktop\\et hackathon\\industrial_mind\\docs\\regulations\\OISD_118_detailed.txt"
+    },
+    {
+      "id": "C-401",
+      "label": "Equipment",
+      "name": "Equipment C-401"
+    },
+    {
+      "id": "GD-401A",
+      "label": "Equipment",
+      "name": "Equipment GD-401A"
+    },
+    {
+      "id": "IR-2023",
+      "label": "Equipment",
+      "name": "Equipment IR-2023"
+    },
+    {
+      "id": "OISD-116",
+      "label": "Regulation",
+      "name": "Equipment OISD-116",
+      "standard_name": "OISD",
+      "number": "116"
+    },
+    {
+      "id": "gas_leak",
+      "label": "FailureMode",
+      "name": "gas leak"
+    },
+    {
+      "id": "INC_incident_report_C401_gas_leak_2023.txt",
+      "label": "Incident",
+      "severity": "Critical",
+      "date": "unknown",
+      "document": "incident_report_C401_gas_leak_2023.txt"
+    },
+    {
+      "id": "Deepak_Nair",
+      "label": "Person",
+      "name": "Deepak Nair"
+    },
+    {
+      "id": "Compressor_House",
+      "label": "Person",
+      "name": "Compressor House"
+    },
+    {
+      "id": "Suresh_Babu",
+      "label": "Person",
+      "name": "Suresh Babu"
+    },
+    {
+      "id": "C-402",
+      "label": "Equipment",
+      "name": "Equipment C-402"
+    },
+    {
+      "id": "C-403",
+      "label": "Equipment",
+      "name": "Equipment C-403"
+    },
+    {
+      "id": "INC_incident_report_P101_seal_failure_2023.txt",
+      "label": "Incident",
+      "severity": "Critical",
+      "date": "unknown",
+      "document": "incident_report_P101_seal_failure_2023.txt"
+    },
+    {
+      "id": "Arun_Patel",
+      "label": "Person",
+      "name": "Arun Patel"
+    },
+    {
+      "id": "Bosch_Rexroth",
+      "label": "Person",
+      "name": "Bosch Rexroth"
+    },
+    {
+      "id": "P-103",
+      "label": "Equipment",
+      "name": "Equipment P-103"
+    },
+    {
+      "id": "EQUIPMENT_MAINTENANCE_HISTORY_\u2014",
+      "label": "Person",
+      "name": "EQUIPMENT MAINTENANCE HISTORY \u2014"
+    },
+    {
+      "id": "Stage-2_cylinder",
+      "label": "Person",
+      "name": "Stage-2 cylinder"
+    },
+    {
+      "id": "HE-501",
+      "label": "Equipment",
+      "name": "Equipment HE-501"
+    },
+    {
+      "id": "MH-2847",
+      "label": "Equipment",
+      "name": "Equipment MH-2847"
+    },
+    {
+      "id": "WO-2024",
+      "label": "Equipment",
+      "name": "Equipment WO-2024"
+    },
+    {
+      "id": "EQUIPMENT_MAINTENANCE_RECORD_\u2014_HEAT_EXCHANGER",
+      "label": "Person",
+      "name": "EQUIPMENT MAINTENANCE RECORD \u2014 HEAT EXCHANGER"
+    },
+    {
+      "id": "A.K._Patil",
+      "label": "Person",
+      "name": "A.K. Patil"
+    },
+    {
+      "id": "Heat_Transfer_Area",
+      "label": "Person",
+      "name": "Heat Transfer Area"
+    },
+    {
+      "id": "KPD-450",
+      "label": "Equipment",
+      "name": "Equipment KPD-450"
+    },
+    {
+      "id": "PTW-2022",
+      "label": "Equipment",
+      "name": "Equipment PTW-2022"
+    },
+    {
+      "id": "Lovejoy_L110",
+      "label": "Person",
+      "name": "Lovejoy L110"
+    },
+    {
+      "id": "MAINTENANCE_EVENT_1",
+      "label": "Person",
+      "name": "MAINTENANCE EVENT 1"
+    },
+    {
+      "id": "Ramesh_Kumar",
+      "label": "Person",
+      "name": "Ramesh Kumar"
+    },
+    {
+      "id": "Impeller_Material",
+      "label": "Person",
+      "name": "Impeller Material"
+    },
+    {
+      "id": "MAINTENANCE_EVENT_2",
+      "label": "Person",
+      "name": "MAINTENANCE EVENT 2"
+    },
+    {
+      "id": "MAINTENANCE_DATA",
+      "label": "Person",
+      "name": "MAINTENANCE DATA"
+    },
+    {
+      "id": "Vibration_Monitoring",
+      "label": "Person",
+      "name": "Vibration Monitoring"
+    },
+    {
+      "id": "SOP-001",
+      "label": "Equipment",
+      "name": "Equipment SOP-001"
+    },
+    {
+      "id": "SOP-004",
+      "label": "Equipment",
+      "name": "Equipment SOP-004"
+    },
+    {
+      "id": "PROC_SOP-001_Permit_to_Work_System.txt",
+      "label": "Procedure",
+      "name": "SOP-001_Permit_to_Work_System.txt",
+      "document": "SOP-001_Permit_to_Work_System.txt"
+    },
+    {
+      "id": "CONFINED_SPACE_ENTRY",
+      "label": "Person",
+      "name": "CONFINED SPACE ENTRY"
+    },
+    {
+      "id": "Work_Request",
+      "label": "Person",
+      "name": "Work Request"
+    },
+    {
+      "id": "OISD-105",
+      "label": "Regulation",
+      "name": "Equipment OISD-105",
+      "standard_name": "OISD",
+      "number": "105"
+    },
+    {
+      "id": "Factory Act-1948",
+      "label": "Regulation",
+      "standard_name": "Factory Act",
+      "number": "1948"
+    },
+    {
+      "id": "Confined_Space",
+      "label": "Person",
+      "name": "Confined Space"
+    },
+    {
+      "id": "\u274c_Never",
+      "label": "Person",
+      "name": "\u274c Never"
+    },
+    {
+      "id": "SOP-015",
+      "label": "Equipment",
+      "name": "Equipment SOP-015"
+    },
+    {
+      "id": "PROC_SOP-015_Rotating_Equipment_Startup.txt",
+      "label": "Procedure",
+      "name": "SOP-015_Rotating_Equipment_Startup.txt",
+      "document": "SOP-015_Rotating_Equipment_Startup.txt"
+    },
+    {
+      "id": "Pump_Maintenance",
+      "label": "Person",
+      "name": "Pump Maintenance"
+    },
+    {
+      "id": "ESDV-001",
+      "label": "Equipment",
+      "name": "Equipment ESDV-001"
+    },
+    {
+      "id": "ESDV-002",
+      "label": "Equipment",
+      "name": "Equipment ESDV-002"
+    },
+    {
+      "id": "F-101",
+      "label": "Equipment",
+      "name": "Equipment F-101"
+    },
+    {
+      "id": "F-102",
+      "label": "Equipment",
+      "name": "Equipment F-102"
+    },
+    {
+      "id": "FCV-001",
+      "label": "Equipment",
+      "name": "Equipment FCV-001"
+    },
+    {
+      "id": "MV-001",
+      "label": "Equipment",
+      "name": "Equipment MV-001"
+    },
+    {
+      "id": "SOP-020",
+      "label": "Equipment",
+      "name": "Equipment SOP-020"
+    },
+    {
+      "id": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "label": "Procedure",
+      "name": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "document": "SOP-020_Emergency_Shutdown_Procedure.txt"
+    },
+    {
+      "id": "BDV-001",
+      "label": "Equipment",
+      "name": "Equipment BDV-001"
+    },
+    {
+      "id": "NV-401",
+      "label": "Equipment",
+      "name": "Equipment NV-401"
+    },
+    {
+      "id": "XV-401",
+      "label": "Equipment",
+      "name": "Equipment XV-401"
+    },
+    {
+      "id": "OISD-10",
+      "label": "Regulation",
+      "standard_name": "OISD",
+      "number": "10"
+    },
+    {
+      "id": "C.2_Prohibited_Items",
+      "label": "Person",
+      "name": "C.2 Prohibited Items"
+    },
+    {
+      "id": "Jet_Fuel_ATF",
+      "label": "Person",
+      "name": "Jet Fuel ATF"
+    },
+    {
+      "id": "OISD-113",
+      "label": "Regulation",
+      "name": "Equipment OISD-113",
+      "standard_name": "OISD",
+      "number": "113"
+    },
+    {
+      "id": "PESO-6",
+      "label": "Regulation",
+      "standard_name": "PESO",
+      "number": "6"
+    },
+    {
+      "id": "PESO-regulations",
+      "label": "Regulation",
+      "standard_name": "PESO",
+      "number": "regulations"
+    }
+  ],
+  "edges": [
+    {
+      "source": "incident_report_P101_2021.txt",
+      "target": "CR-2022",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_2021.txt",
+      "target": "FCV-12A",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_2021.txt",
+      "target": "INC-2021",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_2021.txt",
+      "target": "MN-2021",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_2021.txt",
+      "target": "OISD-118",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "incident_report_P101_2021.txt",
+      "target": "P-101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_2021.txt",
+      "target": "P-102",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_2021.txt",
+      "target": "P101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_2021.txt",
+      "target": "WO-2021",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_2021.txt",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "DOCUMENTS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "ERP-001",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "INC-2022",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "OISD-118",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "PI-2201",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "PI-2202",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "SOP-012",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "T-12",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "V-205",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "V205",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "V205A",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "V205B",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "Factory Act-31",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "incident_report_V205_2022.txt",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "DOCUMENTS"
+    },
+    {
+      "source": "maintenance_record_E304_nov2023.txt",
+      "target": "CWP-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_E304_nov2023.txt",
+      "target": "E-304",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_E304_nov2023.txt",
+      "target": "E304",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_E304_nov2023.txt",
+      "target": "TU-2021",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_E304_nov2023.txt",
+      "target": "WO-2021",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_E304_nov2023.txt",
+      "target": "WO-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_feb2022.txt",
+      "target": "OISD-118",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "maintenance_record_P101_feb2022.txt",
+      "target": "P-101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_feb2022.txt",
+      "target": "WO-2022",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_jun2023.txt",
+      "target": "FCV-12A",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_jun2023.txt",
+      "target": "MN-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_jun2023.txt",
+      "target": "OISD-118",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "maintenance_record_P101_jun2023.txt",
+      "target": "P-101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_jun2023.txt",
+      "target": "P101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_jun2023.txt",
+      "target": "SKF2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_jun2023.txt",
+      "target": "WO-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_jun2023.txt",
+      "target": "Factory Act-31",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "API-510",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "APPROVED",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "BV-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "DN150",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "IND-0447",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "IND-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "OISD-118",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "SA-516",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "SOP-012",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "V-205",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "V205",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "V205A",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "V205B",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_V205_aug2023.txt",
+      "target": "WO-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-007_Pump_Maintenance.txt",
+      "target": "LOTO-001",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-007_Pump_Maintenance.txt",
+      "target": "OISD-118",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "SOP-007_Pump_Maintenance.txt",
+      "target": "P-101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-007_Pump_Maintenance.txt",
+      "target": "P-102",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-007_Pump_Maintenance.txt",
+      "target": "P-201",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-007_Pump_Maintenance.txt",
+      "target": "P-202",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-007_Pump_Maintenance.txt",
+      "target": "P101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-007_Pump_Maintenance.txt",
+      "target": "SOP-007",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-007_Pump_Maintenance.txt",
+      "target": "Factory Act-31",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "SOP-007_Pump_Maintenance.txt",
+      "target": "PROC_SOP-007_Pump_Maintenance.txt",
+      "rel_type": "CONTAINS_PROCEDURE"
+    },
+    {
+      "source": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "API-510",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "OISD-118",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "SOP-012",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "V-201",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "V-205",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "V-301",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "V-302",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "Factory Act-31",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "rel_type": "CONTAINS_PROCEDURE"
+    },
+    {
+      "source": "SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "INS-003",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "OISD_118_summary.txt",
+      "target": "API-610",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "OISD_118_summary.txt",
+      "target": "API-682",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "OISD_118_summary.txt",
+      "target": "OISD-118",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "OISD_118_summary.txt",
+      "target": "Factory Act-31",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "CR-2022",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "CR-2022",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "CR-2022",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "CR-2022",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "CR-2022",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "FCV-12A",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-12A",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-12A",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-12A",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-12A",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "FCV-12A",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-12A",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-12A",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "INC-2021",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "INC-2021",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "INC-2021",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "INC-2021",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "INC-2021",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "MN-2021",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MN-2021",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MN-2021",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MN-2021",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MN-2021",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "OISD-118",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-118",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-118",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-118",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-118",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "OISD-118",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-118",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-118",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "OISD-118",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-118",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-118",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-118",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-118",
+      "target": "PROC_SOP-007_Pump_Maintenance.txt",
+      "rel_type": "REQUIRES"
+    },
+    {
+      "source": "OISD-118",
+      "target": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "rel_type": "REQUIRES"
+    },
+    {
+      "source": "P-101",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-101",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-101",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-101",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-101",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "P-101",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-101",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-101",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-101",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-101",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-101",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "P-101",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-101",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-102",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-102",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-102",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-102",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-102",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "P-102",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-102",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-102",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-102",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "P-102",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-102",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P101",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P101",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P101",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P101",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P101",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "P101",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P101",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P101",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P101",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2021",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2021",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2021",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2021",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2021",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "WO-2021",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2021",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "INC_incident_report_P101_2021.txt",
+      "target": "OISD-118",
+      "rel_type": "VIOLATED"
+    },
+    {
+      "source": "Desalter_Feed",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "Suresh_Nair",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "R._Krishnamurthy",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "R._Krishnamurthy",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "Amit_Shah",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "Priya_Menon",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "R._Krishnamurthy_Date",
+      "target": "INC_incident_report_P101_2021.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "ERP-001",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ERP-001",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ERP-001",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "INC-2022",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "INC-2022",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "INC-2022",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "PI-2201",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PI-2201",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PI-2201",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "PI-2202",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PI-2202",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PI-2202",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "SOP-012",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-012",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-012",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "SOP-012",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "T-12",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "T-12",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "T-12",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "V-205",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V-205",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V-205",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "V-205",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V205",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V205",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V205",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "V205",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V205A",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V205A",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V205A",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "V205A",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V205B",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V205B",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V205B",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "V205B",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "Factory Act-31",
+      "target": "PROC_SOP-007_Pump_Maintenance.txt",
+      "rel_type": "REQUIRES"
+    },
+    {
+      "source": "Factory Act-31",
+      "target": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "rel_type": "REQUIRES"
+    },
+    {
+      "source": "INC_incident_report_V205_2022.txt",
+      "target": "OISD-118",
+      "rel_type": "VIOLATED"
+    },
+    {
+      "source": "INC_incident_report_V205_2022.txt",
+      "target": "Factory Act-31",
+      "rel_type": "VIOLATED"
+    },
+    {
+      "source": "Ganesh_Rao",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "D._Venkataraman",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "R._Krishnamurthy_Report",
+      "target": "INC_incident_report_V205_2022.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "CWP-2023",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "CWP-2023",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "E-304",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "E-304",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "E304",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "E304",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "TU-2021",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "TU-2021",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2023",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2023",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2023",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2023",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2023",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2023",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2023",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2023",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2022",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2022",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2022",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2022",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2022",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2022",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MN-2023",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MN-2023",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MN-2023",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MN-2023",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MN-2023",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MN-2023",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SKF2023",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SKF2023",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SKF2023",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SKF2023",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SKF2023",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SKF2023",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "API-510",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "APPROVED",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "BV-2023",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "DN150",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "IND-0447",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "IND-2023",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SA-516",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SA-516",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SA-516",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SA-516",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SA-516",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "LOTO-001",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "LOTO-001",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "LOTO-001",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-201",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-201",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-201",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-201",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-201",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-201",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-201",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "P-202",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-202",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-202",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-202",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-202",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-202",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "SOP-007",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-007",
+      "target": "overheating",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-007",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-007",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-007",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-007",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-007",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "SOP-007",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-007",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PROC_SOP-007_Pump_Maintenance.txt",
+      "target": "LOTO-001",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-007_Pump_Maintenance.txt",
+      "target": "OISD-118",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-007_Pump_Maintenance.txt",
+      "target": "P-101",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-007_Pump_Maintenance.txt",
+      "target": "P-102",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-007_Pump_Maintenance.txt",
+      "target": "P-201",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-007_Pump_Maintenance.txt",
+      "target": "P-202",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-007_Pump_Maintenance.txt",
+      "target": "P101",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-007_Pump_Maintenance.txt",
+      "target": "SOP-007",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "V-201",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V-301",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "V-302",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "API-510",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "OISD-118",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "SOP-012",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "V-201",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "V-205",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "V-301",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "V-302",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-012_Pressure_Vessel_Inspection.txt",
+      "target": "INS-003",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "INS-003",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "API-610",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "API-682",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "incident_report_C401_gas_leak_2023.txt",
+      "target": "C-401",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_C401_gas_leak_2023.txt",
+      "target": "GD-401A",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_C401_gas_leak_2023.txt",
+      "target": "IR-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_C401_gas_leak_2023.txt",
+      "target": "OISD-116",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "incident_report_C401_gas_leak_2023.txt",
+      "target": "INC_incident_report_C401_gas_leak_2023.txt",
+      "rel_type": "DOCUMENTS"
+    },
+    {
+      "source": "incident_report_C401_gas_leak_2023.txt",
+      "target": "C-402",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_C401_gas_leak_2023.txt",
+      "target": "C-403",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_seal_failure_2023.txt",
+      "target": "IR-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_seal_failure_2023.txt",
+      "target": "P-101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_seal_failure_2023.txt",
+      "target": "P-102",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_seal_failure_2023.txt",
+      "target": "SOP-007",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_seal_failure_2023.txt",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "DOCUMENTS"
+    },
+    {
+      "source": "incident_report_P101_seal_failure_2023.txt",
+      "target": "OISD-116",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "incident_report_P101_seal_failure_2023.txt",
+      "target": "P-103",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_seal_failure_2023.txt",
+      "target": "P-201",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "incident_report_P101_seal_failure_2023.txt",
+      "target": "P-202",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_C401_compressor.txt",
+      "target": "C-401",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_C401_compressor.txt",
+      "target": "IR-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_C401_compressor.txt",
+      "target": "OISD-116",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "maintenance_record_C401_compressor.txt",
+      "target": "WO-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_HE501_heat_exchanger.txt",
+      "target": "HE-501",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_HE501_heat_exchanger.txt",
+      "target": "MH-2847",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_HE501_heat_exchanger.txt",
+      "target": "SA-516",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_HE501_heat_exchanger.txt",
+      "target": "WO-2024",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_complete_history.txt",
+      "target": "KPD-450",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_complete_history.txt",
+      "target": "P-101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_complete_history.txt",
+      "target": "PTW-2022",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_complete_history.txt",
+      "target": "WO-2022",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "maintenance_record_P101_complete_history.txt",
+      "target": "WO-2023",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-001_Permit_to_Work_System.txt",
+      "target": "SOP-001",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-001_Permit_to_Work_System.txt",
+      "target": "SOP-004",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-001_Permit_to_Work_System.txt",
+      "target": "PROC_SOP-001_Permit_to_Work_System.txt",
+      "rel_type": "CONTAINS_PROCEDURE"
+    },
+    {
+      "source": "SOP-001_Permit_to_Work_System.txt",
+      "target": "OISD-105",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "SOP-001_Permit_to_Work_System.txt",
+      "target": "Factory Act-1948",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "SOP-015_Rotating_Equipment_Startup.txt",
+      "target": "SOP-015",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-015_Rotating_Equipment_Startup.txt",
+      "target": "PROC_SOP-015_Rotating_Equipment_Startup.txt",
+      "rel_type": "CONTAINS_PROCEDURE"
+    },
+    {
+      "source": "SOP-015_Rotating_Equipment_Startup.txt",
+      "target": "SOP-001",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-015_Rotating_Equipment_Startup.txt",
+      "target": "SOP-004",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-015_Rotating_Equipment_Startup.txt",
+      "target": "SOP-007",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "ESDV-001",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "ESDV-002",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "F-101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "F-102",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "FCV-001",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "MV-001",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "P-101",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "P-102",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "SOP-020",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "rel_type": "CONTAINS_PROCEDURE"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "BDV-001",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "C-401",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "C-402",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "C-403",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "NV-401",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "SOP-015",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "XV-401",
+      "rel_type": "MENTIONS"
+    },
+    {
+      "source": "DGMS_safety_regulations.txt",
+      "target": "OISD-105",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "DGMS_safety_regulations.txt",
+      "target": "OISD-10",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "OISD_118_detailed.txt",
+      "target": "OISD-116",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "OISD_118_detailed.txt",
+      "target": "OISD-113",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "OISD_118_detailed.txt",
+      "target": "OISD-118",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "OISD_118_detailed.txt",
+      "target": "PESO-6",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "OISD_118_detailed.txt",
+      "target": "PESO-regulations",
+      "rel_type": "REFERENCES"
+    },
+    {
+      "source": "C-401",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "C-401",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "C-401",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "C-401",
+      "target": "INC_incident_report_C401_gas_leak_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "C-401",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "C-401",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "GD-401A",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "GD-401A",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "GD-401A",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "GD-401A",
+      "target": "INC_incident_report_C401_gas_leak_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "IR-2023",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "IR-2023",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "IR-2023",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "IR-2023",
+      "target": "INC_incident_report_C401_gas_leak_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "IR-2023",
+      "target": "seal_failure",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "IR-2023",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "IR-2023",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-116",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-116",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-116",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-116",
+      "target": "INC_incident_report_C401_gas_leak_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "OISD-116",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-116",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "OISD-116",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "INC_incident_report_C401_gas_leak_2023.txt",
+      "target": "OISD-116",
+      "rel_type": "VIOLATED"
+    },
+    {
+      "source": "Deepak_Nair",
+      "target": "INC_incident_report_C401_gas_leak_2023.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "Compressor_House",
+      "target": "INC_incident_report_C401_gas_leak_2023.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "Suresh_Babu",
+      "target": "INC_incident_report_C401_gas_leak_2023.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "C-402",
+      "target": "INC_incident_report_C401_gas_leak_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "C-402",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "C-402",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "C-402",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "C-403",
+      "target": "INC_incident_report_C401_gas_leak_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "C-403",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "C-403",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "C-403",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "INC_incident_report_P101_seal_failure_2023.txt",
+      "target": "OISD-116",
+      "rel_type": "VIOLATED"
+    },
+    {
+      "source": "Arun_Patel",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "Bosch_Rexroth",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "INVESTIGATED"
+    },
+    {
+      "source": "P-103",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-103",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "P-103",
+      "target": "INC_incident_report_P101_seal_failure_2023.txt",
+      "rel_type": "HAD_INCIDENT"
+    },
+    {
+      "source": "HE-501",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "HE-501",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "HE-501",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "HE-501",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "HE-501",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MH-2847",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MH-2847",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MH-2847",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MH-2847",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MH-2847",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2024",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2024",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2024",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2024",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "WO-2024",
+      "target": "erosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "KPD-450",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "KPD-450",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "KPD-450",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "KPD-450",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "KPD-450",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PTW-2022",
+      "target": "corrosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PTW-2022",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PTW-2022",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PTW-2022",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PTW-2022",
+      "target": "blockage",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-001",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-001",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-001",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-001",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-004",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-004",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-004",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-004",
+      "target": "cavitation",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PROC_SOP-001_Permit_to_Work_System.txt",
+      "target": "SOP-001",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-001_Permit_to_Work_System.txt",
+      "target": "SOP-004",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-001_Permit_to_Work_System.txt",
+      "target": "OISD-105",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "OISD-105",
+      "target": "PROC_SOP-001_Permit_to_Work_System.txt",
+      "rel_type": "REQUIRES"
+    },
+    {
+      "source": "OISD-105",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-105",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "Factory Act-1948",
+      "target": "PROC_SOP-001_Permit_to_Work_System.txt",
+      "rel_type": "REQUIRES"
+    },
+    {
+      "source": "SOP-015",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-015",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-015",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-015",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PROC_SOP-015_Rotating_Equipment_Startup.txt",
+      "target": "SOP-015",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-015_Rotating_Equipment_Startup.txt",
+      "target": "SOP-001",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-015_Rotating_Equipment_Startup.txt",
+      "target": "SOP-004",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-015_Rotating_Equipment_Startup.txt",
+      "target": "SOP-007",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "ESDV-001",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ESDV-001",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ESDV-001",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ESDV-001",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ESDV-001",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ESDV-002",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ESDV-002",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ESDV-002",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ESDV-002",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "ESDV-002",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "F-101",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "F-101",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "F-101",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "F-101",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "F-101",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "F-102",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "F-102",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "F-102",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "F-102",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "F-102",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-001",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-001",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-001",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-001",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "FCV-001",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MV-001",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MV-001",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MV-001",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MV-001",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "MV-001",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-020",
+      "target": "leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-020",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-020",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-020",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "SOP-020",
+      "target": "gas_leak",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "ESDV-001",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "ESDV-002",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "F-101",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "F-102",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "FCV-001",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "MV-001",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "P-101",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "P-102",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "SOP-020",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "BDV-001",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "C-401",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "C-402",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "C-403",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "NV-401",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "SOP-015",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "PROC_SOP-020_Emergency_Shutdown_Procedure.txt",
+      "target": "XV-401",
+      "rel_type": "GOVERNS"
+    },
+    {
+      "source": "BDV-001",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "BDV-001",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "BDV-001",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "NV-401",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "NV-401",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "NV-401",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "XV-401",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "XV-401",
+      "target": "explosion",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "XV-401",
+      "target": "fire",
+      "rel_type": "EXPERIENCED"
+    },
+    {
+      "source": "OISD-113",
+      "target": "vibration",
+      "rel_type": "EXPERIENCED"
+    }
+  ]
+}

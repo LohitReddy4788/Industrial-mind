@@ -1,0 +1,73 @@
+EQUIPMENT MAINTENANCE RECORD — HEAT EXCHANGER HE-501
+Plant: Bharat Petroleum Refinery Unit 3
+Equipment ID: HE-501
+Equipment Type: Shell & Tube Heat Exchanger (BEM Type, Fixed Tubesheet)
+Service: Crude Preheat — Pre-Atmospheric Distillation
+Shell Side: Atmospheric Residue (hot) — Inlet 320°C, Outlet 240°C
+Tube Side: Crude Oil (cold) — Inlet 130°C, Outlet 215°C
+Design Pressure Shell: 12 bar(g)
+Design Pressure Tube: 18 bar(g)
+Number of Tubes: 486
+Tube OD: 25.4mm, Thickness: 2.77mm, Length: 6096mm
+Tube Material: ASTM A179 Cold Drawn Carbon Steel
+Shell Material: Carbon Steel SA-516 Grade 70
+Baffle Type: Single Segmental, 25% cut
+Heat Transfer Area: 485 m²
+TEMA Class: C
+Commissioned: 2017
+
+=====================================
+INSPECTION EVENT — January 2024
+Work Order: WO-2024-0034
+Type: Statutory Inspection (3-year interval as per Factories Act Rule 61)
+Inspection Authority: Chief Inspector of Factories, Maharashtra
+Inspector: Shri. A.K. Patil (CIF No. MH-2847)
+
+Pre-Inspection Operating Conditions Review:
+- U overall (measured): 312 W/m²K vs design 385 W/m²K (19% reduction — fouling)
+- Shell side pressure drop: 1.8 bar (design: 0.9 bar) — 2x increase (fouling/blockage)
+- Crude preheat duty loss: Estimated 8.5 MMkcal/hr shortfall
+- Additional furnace fuel consumption: ₹4.2 lakhs/month due to fouling
+
+Inspection Findings:
+TUBE SIDE:
+- 23 tubes found partially plugged (salt deposits + crude wax)
+- 8 tubes failed eddy current test (>30% wall loss) — REQUIRES PLUGGING
+- Tubesheet face corrosion: Moderate (acceptable, <2mm pitting)
+- Tube-to-tubesheet joint: 3 joints showed minor weeping (hydrostatic test)
+
+SHELL SIDE:
+- Heavy coke/asphaltene fouling on shell side baffles (30-40mm thick deposit)
+- Baffle spacing erosion: 2 baffles found loose (vibration erosion)
+- Shell nozzle N3 (residue outlet) showed 3.2mm wall thinning (UT measurement)
+  Minimum required wall: 6.0mm, Measured: 7.1mm — ACCEPTABLE but monitor
+- No stress corrosion cracking found (WFMT inspection)
+
+Statutory Fitness Certificate Status: CONDITIONAL PASS
+Conditions:
+1. Plug 8 failed tubes immediately before restart
+2. Shell nozzle N3: Increase UT monitoring frequency to 6-monthly
+3. Chemical cleaning mandatory before restart
+4. Next inspection due: January 2027
+
+Actions Taken:
+1. High-pressure water jet cleaning — tube side (350 bar, 180°C hot water)
+2. Chemical cleaning — shell side (DDBSA acid descaling, neutralization, passivation)
+3. Plugged 8 failed tubes with SS tapered plugs (2.7% of tubes — within 10% acceptable limit)
+4. Re-rolled 3 weeping tube-to-tubesheet joints
+5. Replaced 2 loose baffles
+6. Pressure tested: Tube side 27 bar, Shell side 18 bar (1.5x design) — NO LEAKS
+
+Post-Cleaning Performance:
+- U overall: 368 W/m²K (95.6% of design — excellent recovery)
+- Shell pressure drop: 1.0 bar (back to near design)
+- Crude outlet temperature recovered to 212°C
+
+Costs:
+- Cleaning (HP water + chemical): ₹8,40,000
+- Tube plugging and rolling: ₹1,20,000
+- Baffle replacement: ₹85,000
+- Inspection fees: ₹45,000
+- Total: ₹10,90,000
+
+Recommendation: Implement online fouling monitoring (inlet/outlet temperature and dP trending) to schedule next cleaning at optimal point before 15% U-degradation.

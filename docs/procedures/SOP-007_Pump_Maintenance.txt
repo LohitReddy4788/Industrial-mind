@@ -1,0 +1,84 @@
+STANDARD OPERATING PROCEDURE
+==============================
+SOP Number: SOP-007
+Title: Centrifugal Pump Maintenance and Seal Replacement Procedure
+Revision: 3
+Date: 15-Jan-2023
+Prepared by: Priya Menon (Reliability Engineer)
+Approved by: D. Venkataraman (Head of HSE)
+Applicable Equipment: All centrifugal pumps — P-101, P-102, P-201, P-202 series
+Regulatory Basis: OISD-118 Section 6.2, Factory Act Section 31
+
+1. SCOPE
+This procedure covers the safe isolation, inspection, maintenance, and recommissioning of
+centrifugal pumps. It applies to all planned and corrective maintenance activities.
+
+2. PRE-WORK REQUIREMENTS
+2.1 Permit to Work (PTW): A valid Hot Work or Cold Work permit must be obtained from the
+    Area Authority before beginning any maintenance activity.
+2.2 LOTO (Lock Out Tag Out): Electrical isolation must be completed per LOTO-001.
+    Motor must be de-energised and locked at the MCC panel.
+2.3 Process Isolation: Suction and discharge valves must be locked closed.
+    Vent pump casing pressure to zero. Verify zero pressure with pressure gauge.
+2.4 Gas Testing: Confined area gas test required if pump handles hydrocarbons.
+    Maximum allowable LEL: 5% (by CGI instrument reading).
+2.5 Personal Protective Equipment: Chemical-resistant gloves, face shield, chemical splash goggles,
+    safety boots. Anti-static clothing for hydrocarbon service pumps.
+
+3. PUMP ISOLATION PROCEDURE
+Step 1: Notify control room and obtain written acknowledgement.
+Step 2: Stop pump from local push-button station — confirm DCS shows STOP.
+Step 3: Close discharge valve XV-P101-D (or applicable discharge valve).
+Step 4: Close suction valve XV-P101-S.
+Step 5: Vent pump casing via vent valve on top of casing.
+Step 6: Verify zero pressure on PI at pump outlet.
+Step 7: Drain pump casing if required — direct drain to closed drain system.
+Step 8: Apply LOTO at MCC panel. Complete LOTO record sheet.
+
+4. MECHANICAL SEAL INSPECTION AND REPLACEMENT
+Step 1: Remove coupling guard.
+Step 2: Check coupling alignment before disassembly — record readings.
+Step 3: Remove coupling. Handle coupling halves carefully — do not drop.
+Step 4: Remove seal gland plate bolts. Note torque values.
+Step 5: Slide gland plate back along shaft.
+Step 6: Remove seal assembly carefully. Note orientation for reinstallation.
+Step 7: Inspect seal faces — look for: scoring, pitting, chipping, heat stress cracks.
+Step 8: Clean seal chamber and shaft. Remove all deposits.
+Step 9: Install new seal per manufacturer instructions.
+    IMPORTANT: Ensure all O-rings are lubricated with compatible grease before assembly.
+    IMPORTANT: Observe correct spring orientation (always towards pump).
+Step 10: Reinstall gland plate. Torque bolts in cross pattern to specified torque (see Appendix A).
+Step 11: Verify seal flush Plan 11 line is clear — check orifice for blockage.
+Step 12: Check coupling alignment — must meet manufacturer specification (typically 0.05mm max).
+Step 13: Reinstall coupling guard.
+
+5. BEARING INSPECTION
+Step 1: Remove bearing housing end cover.
+Step 2: Inspect bearing for: pitting, discolouration (overheating), roughness.
+Step 3: Record bearing temperature prior to disassembly if taken under operation.
+Step 4: Replace bearing if vibration exceeded 7.5 mm/s or bearing temperature exceeded 70°C.
+Step 5: Repack with specified grease — do not overfill (max 60g per bearing).
+
+6. RECOMMISSIONING
+Step 1: Remove all LOTO. Restore electrical isolation.
+Step 2: Open suction valve fully. Partially open discharge valve (10-15%).
+Step 3: Prime pump — open vent valve until water/liquid flows without air.
+Step 4: Start pump from DCS. Verify flow and pressure within 2 minutes.
+Step 5: Gradually open discharge valve to design flow.
+Step 6: Check: vibration <5 mm/s, bearing temperature <60°C, seal leakage: 0 drops/min.
+Step 7: Monitor for 15 minutes before handing back to operations.
+
+7. POST-MAINTENANCE DOCUMENTATION
+- Complete Work Order and enter in SAP PM.
+- Record parts used, measurements taken, and any observations.
+- If new failure modes discovered, raise Maintenance Notification for engineering review.
+
+APPENDIX A — Torque Values
+Gland plate bolts M16: 75 Nm
+Coupling bolts M20: 110 Nm
+
+NOTE: This procedure does NOT currently cover the procedure for testing backup mechanical seals
+on dual-seal arrangements. Where dual seals are fitted (P-201 series), contact Reliability
+Engineering for supplementary procedure. (Gap noted — revision planned for SOP-007 Rev.4)
+
+END OF PROCEDURE

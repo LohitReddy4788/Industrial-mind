@@ -1,0 +1,89 @@
+INCIDENT REPORT — GAS LEAK FROM COMPRESSOR C-401
+Incident Reference: IR-2023-047
+Date: 08-October-2023, 14:22 hrs (Day Shift)
+Location: Compressor House — Hydrocracker Unit, Bay 3
+Equipment: C-401 (Reciprocating Compressor, H2-rich gas service)
+Classification: Process Safety Incident — Level 2 (Significant)
+Shift Incharge: Mr. Deepak Nair
+Reported By: Operator Mr. Suresh Babu
+
+INCIDENT DESCRIPTION:
+C-401 tripped automatically on High Stage-2 Discharge Temperature (189°C vs trip at 180°C). During investigation of the trip, maintenance team opened the Stage-2 valve cover and found a broken discharge valve plate. A small gas leak (H2-rich gas, flammable) was present at the valve cover joint prior to opening. LEL detector showed 12% LEL at compressor skid level (1.5 meters elevation) at time of discovery.
+
+CONSEQUENCES:
+- Flammable gas release: Estimated 45 kg H2-rich gas (below OISD reportable threshold of 50 kg — reported voluntarily)
+- No ignition, no fire
+- No injuries to personnel
+- Area evacuated for 90 minutes while ventilation cleared gas
+- Production impact: 18 hours downtime, hydrocracker unit rate reduced by 35% during period
+
+IMMEDIATE RESPONSE:
+14:22 — C-401 trips on high temperature (automatic)
+14:25 — Operator discovers gas smell at compressor house
+14:26 — LEL reading confirmed at 12% — EVACUATE compressor house immediately
+14:27 — Shift Incharge activates emergency response
+14:28 — Fire tender stationed at compressor house entrance
+14:30 — All personnel evacuated, access restricted
+14:35 — Safety officer confirms with fixed gas detection (GD-401A/B/C): Peak reading 18% LEL
+14:45 — Forced ventilation fans started (4 × 5000 m³/hr capacity)
+15:15 — LEL confirmed <10% — maintenance team enters with SCBA for assessment
+16:00 — Nature of failure confirmed: Broken valve plate, valve cover leak
+16:30 — PTW issued for Stage-2 valve replacement work (Hot Work Permit NOT required — no ignition source)
+08-Oct 22:00 — Repair completed, leak-testing done
+09-Oct 08:15 — C-401 restarted after successful test run
+
+ROOT CAUSE ANALYSIS:
+Primary Cause: Stage-2 discharge valve plate fatigue fracture
+- Material: Cast iron plate (OEM supplied)
+- Running hours at failure: 26,400 hours
+- OEM replacement interval: 24,000 hours — OVERDUE by 2,400 hours
+- Valve plate fractured due to combined fatigue + impact from 3 liquid carryover events (June, Aug, Sep 2023)
+
+Secondary Cause: Inadequate PM compliance
+- Valve replacement task was in PM schedule but was DEFERRED 3 times (Jun, Aug, Sep 2023)
+- Deferral approvals: Signed by production supervisor (avoid shutdown during high-production period)
+- No risk assessment done for PM deferral — should have triggered compensatory measures
+
+Contributing Factors:
+1. Operation at 104% rated capacity for 6 months (to meet production targets)
+2. KO drum (knockout drum) level control malfunction — led to liquid carryover to compressor (3 events)
+3. KO drum LIC (Level Indicating Controller) — found to have 15% calibration error (not caught in last calibration audit)
+
+REGULATORY COMPLIANCE STATUS:
+- OISD-116: Incident registered and reported to OISD Regional Office
+- Factories Act Section 88A: Voluntary report to Factory Inspector (dangerous occurrence)
+- Insurance notification: Filed within 24 hours per policy requirement
+
+CORRECTIVE ACTIONS:
+
+Immediate:
+✅ Replaced all Stage-2 valves (suction + discharge, both throws)
+✅ Replaced piston rings (all 4 stages — preventive)
+✅ KO drum level instrument recalibrated, new setpoints validated
+✅ High-level alarm added on KO drum (was not present before)
+
+Short-term (within 2 weeks):
+✅ Revised valve replacement PM frequency: Every 20,000 hours OR 18 months (whichever earlier)
+✅ Added valve impact monitor (acoustic emission sensors) to Stage 2 and Stage 3
+✅ PM deferral policy updated: Any safety-critical PM deferral requires safety manager sign-off + written risk assessment
+✅ All similar compressors (C-402, C-403) valve hours checked — C-402 at 21,500 hours, valve replacement scheduled
+✅ KO drum drain procedure updated: Auto-drain every 4 hours vs previous 8 hours
+
+Long-term (within 3 months):
+✅ Valve condition monitoring system (online acoustic emission) installed on all 4 compressors
+✅ Liquid carryover detection system (dP across KO drum mesh pad) installed
+✅ Training conducted: All production supervisors on PM deferral risk and OISD-116 requirements
+
+FINANCIAL IMPACT:
+Emergency maintenance: ₹4,56,000
+Production loss (18 hrs × hydrocracker rate): ₹1,53,00,000
+Preventive repairs on C-402: ₹2,18,000
+Monitoring system installation: ₹12,50,000
+Investigation and reporting costs: ₹1,85,000
+Total: ₹1,74,09,000
+
+KEY LEARNING FOR INDUSTRY:
+1. PM deferrals on safety-critical tasks require formal risk assessment — production pressure cannot override safety
+2. Liquid carryover events are leading indicators of valve damage — must trigger immediate maintenance action
+3. Overload operation (>100% design) reduces equipment life — PM intervals must be recalculated
+4. Compressor valve failures give warning through high discharge temperature — temperature trending is critical

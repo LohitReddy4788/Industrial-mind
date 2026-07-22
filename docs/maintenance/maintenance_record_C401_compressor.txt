@@ -1,0 +1,78 @@
+EQUIPMENT MAINTENANCE HISTORY — COMPRESSOR C-401
+Plant: Bharat Petroleum Refinery Unit 3
+Equipment ID: C-401
+Equipment Type: Reciprocating Gas Compressor (4-stage)
+Service: Hydrogen-Rich Gas Recycle — Hydrocracker Unit
+Manufacturer: Ingersoll Rand (India)
+Model: IRC-4H-450
+Capacity: 12,000 Nm³/hr
+Suction Pressure: 2.5 bar(g)
+Discharge Pressure: 185 bar(g)
+Driver: 1800 kW Induction Motor, 415V, 990 RPM
+Gas Composition: H2 (78%), CH4 (12%), C2H6 (5%), C3+ (5%)
+Commissioned: January 2018
+
+=====================================
+FAILURE EVENT — October 2023
+Date: 08-Oct-2023
+Work Order: WO-2023-0589
+Type: Emergency Corrective — Unplanned Shutdown
+Failure Mode: Stage-2 Discharge Valve Failure causing gas leak
+Severity: HIGH — Plant Safety Incident (Minor)
+
+Failure Description:
+C-401 tripped on high discharge temperature (Stage 2: 189°C vs trip setpoint 180°C).
+Subsequent inspection revealed:
+- Stage-2 discharge valve (plate type) had broken valve plate (cast iron fatigue fracture)
+- Broken fragments entered cylinder causing scoring on cylinder wall (Grade 3 damage)
+- Piston ring on Stage-2 cylinder showed blow-by (worn rings)
+- Small gas leak at Stage-2 discharge valve cover joint (minor fugitive emission)
+
+Root Cause:
+1. Valve plate fatigue failure — valve had run 26,400 hours (OEM replacement interval: 24,000 hours — OVERDUE)
+2. Operating at 104% design flow for past 6 months (process demand increase)
+3. Liquid carryover events from KO drum (3 events recorded in logbook — June, August, September 2023) accelerated wear
+
+Contributing Factors:
+- PM overdue by approximately 3 months (scheduled Oct vs actual Oct — but valve not replaced in last PM)
+- Inadequate KO drum level control (instrument department issue)
+
+Incident Classification: Near-Miss (potential for major gas leak averted by quick trip response)
+OISD-116 reporting: Filed incident report IR-2023-047
+
+Actions Taken:
+1. Emergency isolation — shut all block valves, purged with N2
+2. PTW issued (Hot Work Permit + Confined Space) for cylinder opening
+3. Stage-2 discharge valves (suction + discharge, both cylinders) replaced — all 4 valves
+4. Stage-2 cylinder inspected — honed to remove scoring (wall within limits after honing)
+5. Stage-2 piston rings replaced (all 4 stages rings replaced preventively)
+6. Piston rod packing replaced (Stage 2)
+7. KO drum level instrument recalibrated and high-level alarm setpoint reduced
+8. Valve cover joint re-gasketted with Flexitallic spiral wound gasket
+
+Parts Used:
+- Discharge valves (4 sets): ₹2,84,000
+- Piston rings (all stages): ₹1,12,000
+- Piston rod packing: ₹38,000
+- Gaskets and seals: ₹22,000
+Total Maintenance Cost: ₹4,56,000
+Production Loss (18 hours downtime × ₹8.5L/hr): ₹1,53,00,000
+Total Impact: ₹1,57,56,000
+
+Post-Repair Performance Test:
+- All stage temperatures normal (Stage 1: 142°C, Stage 2: 156°C, Stage 3: 168°C, Stage 4: 172°C)
+- Discharge pressure: 184.2 bar(g) (within spec)
+- Flow: 11,850 Nm³/hr (98.75% of rated)
+- No gas leaks detected (soap bubble test + ultrasonic leak detection)
+- Vibration: All stages within ISO 10816 limits
+
+Lessons Learned:
+1. Valve replacement intervals must be strictly followed — calendar-based PM inadequate for high-load operation
+2. Overload operation requires proportional reduction in PM intervals (OEM confirmed: at 104% load, valve life reduces by ~20%)
+3. KO drum liquid level management critical for valve life
+
+Recommendations:
+- Reduce valve replacement interval to 20,000 hours or annual (whichever earlier)
+- Install online valve monitoring system (acoustic emission monitoring)
+- Process team to maintain flow within 100% design capacity
+- Monthly KO drum inspection and drain check

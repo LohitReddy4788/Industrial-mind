@@ -1,0 +1,86 @@
+INCIDENT REPORT — MECHANICAL SEAL FAILURE WITH HYDROCARBON RELEASE
+Incident Reference: IR-2023-012
+Date of Incident: 15-March-2023, 02:35 hrs (Night Shift)
+Location: Pump House — Crude Transfer Area, Unit 3
+Equipment: P-101 (Centrifugal Pump — Crude Oil Transfer)
+Shift Incharge: Mr. Vijay Shenoy
+Operator on duty: Mr. Arun Patel
+
+INCIDENT DESCRIPTION:
+At 02:35 hrs, operator Arun Patel noticed hydrocarbon vapour smell near P-101 during routine rounds. On inspection, found significant crude oil leak from mechanical seal area — estimated 8-12 litres/minute. Activated emergency response immediately.
+
+IMMEDIATE CONSEQUENCES:
+- Hydrocarbon pool forming on pump house floor (estimated 200 litres before isolation)
+- Fire risk: pump house classified Zone 1 (IEC 60079) — ignition risk HIGH
+- Two operators evacuated pump house as precaution
+- Emergency isolation completed in 4 minutes from detection
+- No ignition, no fire, no injuries
+- Environmental: Crude oil contained within bunded area — no drain/soil contamination
+
+TIMELINE:
+02:35 — Hydrocarbon smell detected by operator during rounds
+02:36 — Shift incharge informed, emergency response activated
+02:37 — P-101 isolated (discharge valve closed, pump tripped from DCS)
+02:39 — P-102 (standby) started — production continuity maintained
+02:40 — Fire tender on standby positioned at pump house entrance
+02:55 — Area declared safe for inspection after vapour dispersal
+03:15 — Maintenance team mobilized for emergency repair
+06:30 — P-101 mechanical seal replaced, pump ready
+07:15 — P-101 restarted after testing, P-102 back on standby
+
+ROOT CAUSE ANALYSIS (RCA — 5-Why Method):
+Why 1: Why did the mechanical seal fail?
+→ Inner seal faces worn beyond limits (face gap >0.05mm)
+
+Why 2: Why were faces worn beyond limits?
+→ Barrier fluid (API Plan 53B) pressure had dropped from 12 bar to 3 bar — insufficient face lubrication
+
+Why 3: Why did barrier fluid pressure drop?
+→ Bladder accumulator (nitrogen pre-charge) had lost nitrogen charge — bladder failure
+
+Why 4: Why did accumulator bladder fail without detection?
+→ Nitrogen pre-charge pressure not included in daily operator rounds checklist
+
+Why 5: Why not in checklist?
+→ Seal support system monitoring was excluded from operations checklist during last SOP revision (Feb 2022 revision — documentation error)
+
+ROOT CAUSE: Operational/Procedural — Inadequate monitoring of seal support system (API Plan 53B accumulator pre-charge pressure)
+CONTRIBUTING CAUSE: Mechanical — Accumulator bladder natural wear/fatigue (7 years old, OEM replacement interval 5 years — OVERDUE)
+
+CORRECTIVE ACTIONS:
+Immediate (Completed within 24 hours):
+1. ✅ Mechanical seal replaced with new Flowserve 28AT seal
+2. ✅ Accumulator bladder replaced (Bosch Rexroth, new)
+3. ✅ Barrier fluid recharged, pre-charge pressure set to 12 bar
+4. ✅ Seal support system inspected and flushed
+
+Short-term (within 1 week):
+5. ✅ Operator rounds checklist updated — added accumulator pre-charge pressure (check 4-hourly)
+6. ✅ SOP-007 revised — added seal support system monitoring section
+7. ✅ Toolbox talk conducted for all operators — seal monitoring importance
+8. ✅ P-102 (standby pump) seal support system inspected — bladder found at 4 bar (also overdue — replaced preventively)
+
+Long-term (within 1 month):
+9. ✅ Installed low-pressure alarm on all Plan 53B accumulators (trip at <8 bar, alarm at <10 bar)
+10. ✅ Accumulator bladder replacement added to 5-year PM schedule for all pumps
+11. ✅ RCA findings shared plant-wide in monthly safety meeting
+
+REGULATORY COMPLIANCE:
+- Incident reported to Factory Inspector within 24 hours as per Section 88, Factories Act 1948 (hydrocarbon release >50kg equivalent)
+- OISD-116 safety management audit trail updated
+- Insurance notified (HCC Industrial Insurance Policy)
+
+FINANCIAL IMPACT:
+- Emergency maintenance cost: ₹1,52,000
+- Production loss: NIL (standby pump available)
+- Environmental cleanup: ₹18,000
+- Total: ₹1,70,000
+
+LESSONS LEARNED:
+1. Seal support system health is as critical as the seal itself — must be actively monitored
+2. SOP revisions require mandatory review by operations team before approval
+3. Accumulator bladders have finite life — must be on PM schedule regardless of appearance
+4. Standby pump availability prevented major production impact — standby readiness critical
+5. Quick operator response (4 minutes to isolation) prevented escalation to fire/explosion
+
+Similar equipment at risk: P-102, P-103, P-201, P-202 — all checked and updated

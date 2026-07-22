@@ -1,0 +1,57 @@
+MAINTENANCE WORK ORDER RECORD
+=============================
+Work Order No: WO-2023-0614
+Date: 12-Jun-2023
+Equipment Tag: P-101
+Equipment Name: Centrifugal Pump — Crude Desalter Feed
+Location: Unit-3, Refinery Block B
+Technician: Rajesh Kumar (Senior Maintenance Technician)
+Supervisor: Amit Shah (Maintenance Engineer)
+
+REASON FOR MAINTENANCE:
+Vibration readings on P-101 exceeded alarm threshold of 7.5 mm/s RMS. DCS log shows
+vibration trending up from 4.2 mm/s (normal) to 9.1 mm/s over 14 days.
+Operator Suresh Nair reported unusual grinding noise from bearing housing on 10-Jun-2023.
+
+OBSERVATIONS ON INSPECTION:
+- Mechanical seal showed severe erosion on the stationary seat. Scoring visible on seal face.
+- Seal leakage rate estimated at 8-10 drops per minute (allowable: max 3 drops/min per OISD-118 Section 6.2)
+- Inboard bearing (DE) showed pitting corrosion — bearing temperature was 72°C vs normal 45-50°C
+- Impeller: minor cavitation marks on suction side, estimated 8% degradation — acceptable
+- Coupling alignment: 0.15mm angular misalignment detected — corrected to 0.02mm
+- Mechanical seal failure mode: seal failure due to dry running incident on 04-Jun-2023 (recorded in DCS)
+
+ROOT CAUSE:
+Primary cause — Mechanical seal dry running on 04-Jun-2023 when suction valve closed
+inadvertently during shift changeover. Duration of dry run: approximately 3-4 minutes.
+No operator alarm was triggered because the seal dry-run detector (SDD-P101) was not armed.
+
+ACTIONS TAKEN:
+1. Replaced mechanical seal — Type: John Crane Type 1B, 65mm bore (Part No: JC-1B-065-SIC/CARBON)
+2. Replaced inboard bearing (DE) — SKF 6313-2RS (Lot No: SKF2023-44771)
+3. Flushed seal flush system — checked and cleaned Plan 11 flush line orifice (found 40% blocked)
+4. Corrected coupling alignment to 0.02mm
+5. Raised maintenance notification for SDD-P101 inspection (Notif No: MN-2023-0891)
+6. Flow control valve FCV-12A also cleaned — found 15% fouling on plug
+
+MEASUREMENTS AFTER REPAIR:
+- Vibration: 3.8 mm/s RMS (DE), 2.9 mm/s RMS (NDE) — within acceptable limits
+- Bearing temperature: 47°C (DE), 44°C (NDE)
+- Seal leakage: 0 drops/minute
+- Flow: 142 m³/hr (design: 145 m³/hr) — acceptable
+
+PARTS USED:
+- Mechanical seal John Crane 1B: 1 unit
+- Bearing SKF 6313-2RS: 1 unit (DE bearing)
+- Seal flush orifice 3mm: 1 unit
+- Gaskets and O-rings: 1 set
+
+NEXT MAINTENANCE DUE:
+- Seal inspection: 6 months (Dec-2023)
+- Bearing vibration check: monthly
+- Coupling alignment check: annual PM due Jun-2024
+- SDD-P101 test: before next startup — mandatory per OISD-118
+
+Regulatory Reference: OISD-118 Section 6.2 (Rotating Equipment Maintenance), Factory Act Section 31 (Safety of Machinery)
+
+Signature: Rajesh Kumar                    Date Closed: 13-Jun-2023

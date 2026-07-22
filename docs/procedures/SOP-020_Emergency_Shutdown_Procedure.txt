@@ -1,0 +1,120 @@
+STANDARD OPERATING PROCEDURE
+SOP Number: SOP-020
+Title: Emergency Shutdown Procedure — Unit 3 (Crude Distillation + Hydrocracker)
+Revision: 4
+Effective Date: 01-March-2024
+Approved By: Plant Manager, Head of Operations, Safety Manager
+Classification: CRITICAL SAFETY DOCUMENT — Post at all operator stations
+
+PURPOSE:
+Define actions for orderly emergency shutdown to protect personnel, equipment, and environment during emergency conditions.
+
+TRIGGER CONDITIONS — INITIATE EMERGENCY SHUTDOWN WHEN:
+1. Fire or explosion in or near process unit
+2. Major hydrocarbon or toxic gas leak (LEL >25% at gas detector, or visible large liquid release)
+3. Loss of cooling water to plant (total failure >5 minutes)
+4. Power failure (total blackout lasting >2 minutes)
+5. Loss of instrument air (pressure <3 bar and dropping)
+6. Runaway reaction indicators (temperature/pressure rising rapidly, uncontrolled)
+7. H2S gas detection at >10 ppm in occupied areas
+8. Structural damage to major equipment
+9. Natural disaster (earthquake, flood) impacting plant
+10. Operator judgment that situation poses imminent danger
+
+ESD LEVELS:
+Level 1 — Unit Emergency Shutdown: Shuts down specific process unit only
+Level 2 — Plant Emergency Shutdown: Shuts down entire plant
+Level 3 — Emergency Blowdown: Depressurizes all vessels to flare (used for fire scenarios)
+
+AUTOMATED ESD SYSTEM (operates without operator action):
+The following cause automatic ESD Level 1 (Unit Shutdown):
+- High-high pressure on any column (P+15% above design) → ESD valve closes
+- High-high temperature on any furnace coil (design + 30°C) → Fuel gas cut-off
+- Low-low flow to furnace (below minimum required) → Emergency fuel cut-off
+- High-high level in atmospheric column (>90%) → Feed pump trip
+- Compressor vibration high-high (>15 mm/s) → Compressor trip
+- Loss of flame in furnace (all pilots extinguished) → Fuel gas cut-off
+
+MANUAL EMERGENCY SHUTDOWN PROCEDURE — OPERATOR ACTIONS:
+
+STEP 1: SOUND ALARM (0-30 seconds)
+- Press emergency siren button at nearest alarm station OR control room console
+- Announce on PA system: "EMERGENCY IN UNIT 3 — ALL PERSONNEL MUSTER AT DESIGNATED ASSEMBLY POINT. THIS IS NOT A DRILL."
+- Alert shift incharge immediately (radio or direct)
+
+STEP 2: ISOLATE FEED TO UNIT (30 seconds - 2 minutes)
+Control Room Actions:
+☐ Close feed valve to atmospheric distillation column (FCV-001) — switch to MANUAL, set 0%
+☐ Trip crude feed pumps P-101 and P-102 from DCS
+☐ Close fuel gas supply to furnaces F-101, F-102 (ESDV-001, ESDV-002)
+☐ Initiate column reflux rundown (maintain reflux to avoid column damage from temperature spike)
+☐ Switch all pressure controllers to MANUAL to prevent runaway pressure buildup
+
+Field Actions (done in parallel by field operators):
+☐ Close block valve on crude feed line (MV-001) — located at Unit 3 battery limit
+☐ Confirm furnace pilots extinguished (visual check)
+☐ Close all product rundown valves to tankage (prevent contamination if upset condition)
+
+STEP 3: EVACUATE HAZARD AREA (simultaneous with Step 2)
+- Account for ALL personnel using muster roll
+- Shift Incharge: Confirm headcount at assembly point
+- Report any missing person to Emergency Control Centre IMMEDIATELY
+- DO NOT re-enter hazard area to search — inform fire brigade with last known location
+
+STEP 4: COMPRESSOR AND ROTATING EQUIPMENT (2-5 minutes)
+☐ Trip compressors C-401, C-402, C-403 (from DCS or local panel)
+☐ Trip all pumps in affected unit from MCC (use group trip if available)
+☐ For H2 service compressors: Purge with N2 after trip (open N2 purge valve NV-401)
+
+STEP 5: COOLING AND UTILITIES (3-7 minutes)
+☐ Confirm cooling water flow maintained (do NOT stop CW during emergency — needed for condenser/cooler protection)
+☐ If fire: Activate fire water deluge systems for exposed vessels/piping
+☐ Isolate steam to non-critical users (maintain steam to steam purging systems)
+
+STEP 6: EMERGENCY BLOWDOWN (Level 3 — for fire scenario ONLY)
+Only initiated when:
+- Vessel/piping involved in fire and risk of BLEVE (Boiling Liquid Expanding Vapour Explosion)
+- Instruction from Plant Manager or Emergency Commander
+Procedure:
+☐ Open emergency blowdown valve (BDV-001) — routes high-pressure inventory to flare
+☐ Depressurize at controlled rate (maximum 7 bar/minute to avoid thermal shock)
+☐ Maintain flare pilot flame (check flare KO drum level)
+
+STEP 7: COMMUNICATE AND DOCUMENT
+☐ Inform plant manager and safety manager
+☐ Call emergency services if required (fire brigade, ambulance) — numbers at control room
+☐ Record timeline of all actions in emergency log
+☐ Preserve evidence (do NOT disturb equipment before investigation)
+
+COMPRESSOR EMERGENCY SHUTDOWN (Specific — C-401 Series):
+If compressor vibration high or abnormal noise:
+1. Trip from DCS immediately (do not wait for automatic trip)
+2. Close suction block valve (XV-401)
+3. Close discharge check valve (confirm no back-flow)
+4. For H2 service: Open N2 purge (NV-401) to displace flammable gas
+5. Do NOT open compressor for inspection until: Gas-free confirmed, permit issued
+
+IMPORTANT CAUTIONS:
+⚠️ Do NOT attempt to fight a major hydrocarbon fire with portable extinguishers — EVACUATE and call fire brigade
+⚠️ Do NOT re-enter after evacuation without clearance from Shift Incharge + Safety Officer
+⚠️ Do NOT restart equipment after emergency shutdown without formal investigation and clearance
+⚠️ H2S: If H2S alarm sounds, immediately don SCBA (do not wait to smell — H2S deadens sense of smell)
+
+EMERGENCY CONTACT NUMBERS (posted at control room):
+Plant Fire Brigade: Extension 100 / 9876543210
+Plant Medical Centre: Extension 200
+Security (Gate): Extension 300
+Plant Manager (On-call): [Contact list maintained separately, updated quarterly]
+Factory Inspector (Emergency): 022-23456789
+State Emergency Services: 101 (Fire), 102 (Ambulance), 100 (Police)
+OISD Emergency: 011-29818283
+
+POST-EMERGENCY RESTART:
+No unit shall be restarted after emergency shutdown without:
+1. Written clearance from Safety Manager
+2. Completed root cause investigation (preliminary)
+3. Inspection of all affected equipment
+4. Formal startup procedure followed (per SOP-015)
+5. Plant Manager approval for restart
+
+This procedure shall be rehearsed in emergency drills: Minimum once every 6 months (unannounced drill annually)

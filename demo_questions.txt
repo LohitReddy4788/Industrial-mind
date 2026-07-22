@@ -1,0 +1,27 @@
+INDUSTRIAL MIND — DEMO QUESTION BANK
+======================================
+
+--- KNOWLEDGE RETRIEVAL (Copilot) ---
+1. What caused the P-101 pump to fail in June 2023 and what regulatory requirement was violated?
+2. What are the vibration limits for centrifugal pumps under OISD-118?
+3. Who investigated the V-205 overpressure incident and what were the contributing causes?
+4. What is the step-by-step procedure for replacing a mechanical seal on a centrifugal pump?
+5. What PSV testing interval does OISD-118 Section 12.4 require?
+
+--- COMPLIANCE ---
+6. Does SOP-007 comply fully with OISD-118 Section 6.2 for dual-seal pump maintenance?
+7. What Factory Act sections apply to pressure vessel operation and what are the penalties?
+8. Which procedures are missing confined space entry requirements?
+
+--- PATTERN ANALYSIS ---
+9. How many times has P-101 experienced a seal failure in the last 3 years?
+10. What are the leading indicators of a seal failure on centrifugal pumps?
+11. When is P-101 predicted to fail next based on historical pattern?
+
+--- WORK ORDER INTELLIGENCE ---
+12. I need to raise a work order for P-101 seal replacement — what do I need to know?
+13. What maintenance history and regulatory requirements apply to work on V-205?
+
+--- KNOWLEDGE GRAPH ---
+14. Which equipment has the highest risk based on incident history?
+15. What regulations govern both P-101 and V-205?
